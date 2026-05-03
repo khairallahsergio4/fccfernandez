@@ -1,0 +1,10 @@
+{
+  "welcome": {
+    "title": "Bienvenido a la Fundacion Centro de Capacitación Fernández",
+    "p": "Seleccioná tu idioma para continuar",
+    "lema":"Formamos personas, transformamos comunidades"
+  },
+  "about": {
+    "text": "Texto largo..."
+  }
+}
