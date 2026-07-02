@@ -1,0 +1,66 @@
+{
+  "web": {
+    "nombreFundacion": "Fernández Training Center Foundation"
+  },
+  "welcome": {
+    "title": "Welcome to the Fernández Training Center Foundation",
+    "p": "Select your language to continue",
+    "lema": "We educate people, we transform communities"
+  },
+  "menu": {
+    "lafundacion": {
+      "item1": "The Foundation",
+      "item2": "Who We Are",
+      "item3": "Board of Directors",
+      "item4": "History",
+      "item5": "German Volunteers",
+      "item6": "Alternative Energies",
+      "item7": "Kindergarten"
+    },
+    "escuela": {
+      "item1": "Amntena School No. 34",
+      "item2": "Institutional Information",
+      "item3": "Educational Programs",
+      "item4": "Management and Teaching Staff",
+      "item5": "Admissions"
+    },
+    "productos": {
+      "item1": "Products and Services",
+      "item2": "Beekeeping",
+      "item3": "Solar Energy",
+      "item4": "Tourism"
+    },
+    "contacto": "Contact",
+    "donar": "Donate"
+  },
+  "testimonio": {
+    "titulo": "We educate people, we transform communities",
+    "texto": "The Fernández Training Center Foundation seeks to provide young people in the region with the knowledge and training necessary for their personal and professional development. It has also become a social meeting space between the culture of northern Argentina and German culture, enriching both by offering their members a broader understanding of their respective realities.",
+    "boton": "Learn More",
+    "tarjeta1": {
+      "titulo": "25+ Years",
+      "texto": "Educating young people, promoting educational projects, and strengthening the Fernández community."
+    },
+    "tarjeta2": {
+      "titulo": "Community",
+      "texto": "• Education • Culture • Training"
+    }
+  },
+  "infomiel": {
+    "tab1": "Local Production",
+    "titulo1": "Natural Honey from the",
+    "titulo2": "Fernández Training Center Foundation",
+    "texto": "We offer 100% pure honey from Santiago del Estero, produced from carob trees, chañar, quebracho, and wildflowers. Our honey is backed by numerous laboratory studies and quality tests conducted in both Argentina and Germany.",
+    "boton": "Buy Now",
+    "masInfo": "More Information",
+    "tab2": "100% Natural",
+    "tab3": "Local Production",
+    "tab4": "Support the Foundation",
+    "imagenTitulo": "Pure Artisan Honey",
+    "imagenSubtitulo": "Produced under high quality standards."
+  },
+  "footer": {
+    "redes": "Training and commitment to the community, also on social media",
+    "desarrollado": "Developed by SkSoftware"
+  }
+}

@@ -1,0 +1,476 @@
+{
+ 
+  "web":{
+      "nombreFundacion":"Fundación Centro de Capacitación Fernández"
+
+  },
+  "welcome": {
+    "title": "Bienvenido a la Fundacion Centro de Capacitación Fernández",
+    "p": "Seleccioná tu idioma para continuar",
+    "lema":"Formamos personas, transformamos comunidades"
+  },
+  "menu": {
+    "lafundacion":{
+      "item1":"La Fundación",
+      "item2":"¿Quienes somos?",
+      "item3":"Consejo de Administracion",
+      "item4":"Historia",
+      "item5":"Voluntarios Alemanes",
+      "item6":"Jardin de Infantes"
+    },
+
+    "escuela":{
+      "item1":"Escuela Amntena Nº34",
+      "item2":"Institucional",
+      "item3":"Oferta Educativa",
+      "item4":"Equipo Directivo y Docente",
+      "item5":"Inscripciones"
+    },
+
+     "productos":{
+      "item1":"Productos y Servicios",
+      "item2":"Apicultura",
+      "item3":"Energia Solar",
+      "item4":"Turismo"
+    },
+    "contacto":"Contacto",
+    "donar":"Donar"
+
+  },
+
+  "fundador":{
+    "titulo":"Nuestra Historia",
+    "nombreFundador":"Jose Majer, fundador",
+
+    "texto1":"   José Majer era sacerdote católico en Alemania y fué enviado por su obispo por 3 años al Norte Argentino en la Provincia Santiago del Estero, donde creó y está actualmente ubicada la F.C.C.F.. Ya en ese tiempo se daba cuenta, que por las necesidades socioeconómicas de la población su misión no podía limitarse solamente al trabajo pastoral, sino tenía que incluir también la capacitación para solucionar los problemas de pobreza.",
+    "texto2":"     Una descripción amplia de la historia de la F.C.C.F. y de su fundador se brinda del libro de Klaus Kornwachs “Polvo y esperanza”, José Majer Una vida para el Gran Chaco. El libro de 240 páginas, que está escrito en alemán, fue publicado como volumen 8 de la serie “Personalidad en la historia contemporánea” en 2017 por la editorial Lit-Verlag en Berlín. Se puede obtener el libro mediante el comercio de libros, también de la fundación respectivamente de la Asociación de los amigos del Norte Argentino, cuyo contacto encontrará en la sección “contactos”.",
+
+    "boton":"Presentación del libro",
+    "botonComprar":"Comprar libro"
+
+  },
+
+  "testimonio":{
+
+    "escuelaNombre":"Escuela de Formación Profesional y Capacitación Laboral Amntena Nº34",
+    "titulo":"Formamos personas, transformamos comunidades",
+    "texto":" La Fundacion Centro de Capacitacion Fernandez busca transferir a los jóvenes de la región el conocimiento y la formación necesaria para su desenvolvimiento en la vida. Además, se ha constituido en un espacio social de encuentro entre la cultura del norte argentino y la cultura alemana, que las ha enriquecido mutuamente al proporcionar a sus miembros una mirada integra de sus respectivas realidades. ",
+    "boton":"Ver más",
+    "tarjeta1":{
+      "titulo":"+40 años",
+      "texto":"Formando jóvenes, impulsando proyectos educativos y fortaleciendo la comunidad de Fernández."
+    },
+
+      "tarjeta2":{
+      "titulo":"Comunidad",
+      "texto":"• Educación • Cultura • Capacitación"
+    }
+  },
+
+  "infomiel":{
+    "tab1":"Producción Local",
+    "titulo1":"Miel Natural de la",
+    "titulo2":"Fundación Centro de Capacitación Fernández",
+    "texto":"Ofrecemos miel santiagueña 100% pura de arboles de algarrobo, chañar, quebracho y flores silvestres.Estamos avalados por innumerables estudios de laboratorios y pruebas de calidad tanto en Argentina como en Alemania.",
+    "boton":"Comprar",
+    "masInfo":"Mas Información",
+    "tab2":"100% Natural",
+    "tab3":"Producción Local",
+    "tab4":"Apoya la Fundación",
+    "imagenTitulo":"Miel Pura Artesanal",
+    "imagenSubtitulo":"Elaborada con altos estandares de calidad.",
+    "comprar":{
+      "titulo":"¿Dónde deseas comprar?",
+      "subtitulo":"Selecciona tu país para continuar.",
+      "argentina":"Comprar en Argentina",
+      "alemania":"Comprar en Alemania"
+    }
+
+  },
+
+
+  "noticias":{
+
+    "titulo":"Noticias y Novedades",
+    "subtitulo":"Lo que sucede en la Fundación",
+    "texto":"Enterate de nuestras actividades, capacitaciones, eventos y proyectos comunitarios",
+    "verMas":"Ver publicación"
+
+  },
+
+  "footer":{
+    "redes":"Capacitación y compromiso con la comunidad, también en redes",
+    "desarrollado":"Desarrollado por SkSoftware",
+    "mapa":"¿Como llegar?"
+  },
+
+
+  "quienesSomos":{
+      "strong":"Nuestra Institución",
+      "titulo":"¿Quiénes somos?",
+      "texto1":"Somos una organización comprometida con el desarrollo social, educativo y comunitario trabajando día a día para generar oportunidades que mejoren la calidad de vida de las personas.",
+      "texto2":"A través de nuestros programas y proyectos promovemos la inclusión, la formación y el fortalecimiento de las capacidades de niños, jóvenes y adultos, fomentando valores de solidaridad,participación y compromiso con la comunidad. A través de nuestra Escuela “Amntena” buscamos capacitar a jóvenes, que en su mayoría provienen de zonas rurales y familias de bajos recursos económicos, en oficios con salida laboral como Agricultura y Huerta Ecológica, Carpintería, Curtiembre con Talabarteria, Apicultura, Mecánica del Automotor y Electricidad con Energías Alternativas, para que puedan encontrar después de tres años de aprendizaje un lugar de trabajo en la zona.",
+      "texto3":"Creemos en el trabajo conjunto y en la construcción de un futuro más justo, donde cada persona pueda desarrollar plenamente su potencial."
+
+  },
+
+    "comienzos":{
+      "strong":"Nuestro Nacimiento",
+      "titulo":"Los comienzos",
+      "texto1":"José Majer era sacerdote católico en Alemania y fué enviado por su obispo por 3 años al Norte Argentino en la Provincia Santiago del Estero, donde creó y está actualmente ubicada la F.C.C.F.. Ya en ese tiempo se daba cuenta, que por las necesidades socioeconómicas de la población su misión no podía limitarse solamente al trabajo pastoral, sino tenía que incluir también la capacitación para solucionar los problemas de pobreza. Así comenzó en la parroquia de Brea Pozo, donde fué párroco desde el año 1968, proyectos para juntar agua de lluvia en aljibes y hacer ladrillos. Para ello se inició una cooperativa artesanal y agricola y se exportaron los productos a Alemania, se organizó un servicio de maquinarias agricolas, se construyó una carpinteria de enseñanza para los jóvenes, se hicieron canchas de fútbol y basketbol, se inicaron cursos de costura, cocina y soldadura con profesores de la Escuela Profesional de Santiago del Estero (según el sistema “FPA” - Formación Profesional Acelerada).",
+
+      "texto2":"El obispo argentino no compartía su visión pastoral relacionada con la necesidad de hacer trabajo social, entonces José decidió prescindir del contrato en la diocesis. El tenia que seguir con su que hacer social sin el apoyo de la iglesia católica, entonces empezó a trabajar en un servicio agropecuario para pequeños agricultores (ISAN), que fué auspiciado y avalado por la organización católica Misereor, ampliando así su conocimiento de la situación de la gente en diferentes partes del Norte Argentino.",
+
+      "texto3":"En aquella época el trabajo social no era bien visto por los gobiernos militares, quienes tomaron el poder en la Argentina en Marzo de 1976. En ese contexto de represión José Majer fue detenido dos veces. Después de su liberación dejó su trabajo de asesoramiento en la organización Misereor, para evitar problemas con los militares y decidió en 1976 radicarse en la localidad de Fernández no lejos de su parroquia anterior.",
+
+
+      "texto4":"Para solventar los gastos de su vida privada, José Majer compró en ese tiempo 100 colmenas, ya que la miel de Santiago era conocida como de muy buena calidad, los Incas la conocían y la valoraban.",
+
+
+      "texto5":"Se iniciaron trabajos sociales y al mismo tiempo se desarrolló la formación en oficios. Entonces así comenzó a concretar su sueño, ya para el año 1978: Quería crear un centro de capacitación para jóvenes de escasos recursos económicos y de esta forma brindarles una herramienta: “Conocimiento y Capacitación”, ya que cada vez era más difícil para sus padres costear la educación.",
+
+      "texto6":"El primer edificio que se construyó se lo destinó a una curtiembre, a fin de producir cuero para realizar artesanías. En este edificio también como en Brea Pozo se hacían cursos de la escuela industrial estatal de Santiago del Estero para formación profesional de adultos (según el sistema “FPA”).",
+
+      "texto7":"La Fundación Centro de Capacitación Fernández, institución sin fines de lucro, se fundó formalmente el 30 de Enero de 1984 por José Majer y amigos alemanes, un tiempo después del fin de la dictadura militar.",
+
+
+      "texto8":"También en este terreno comenzaron los primeros ensayos de arquitectura no convencional, utilizando el barro como materia prima para la construcción de viviendas “tipo iglú”, que fueron destinadas para albergue de alumnos durante el tiempo de clases, ya que estos venían del interior de la provincia.",
+
+      "texto9":"A medida que iba pasando el tiempo se fue ampliando el predio de la fundación, gracias a la ayuda de amigos alemanes, se compró un campo lindante de más hectáreas.",
+
+      "texto10":"Una de las casas redondas, en su momento fue destinada a ser un jardin de infantes para que una maestra jardinera de Tübingen (Alemania) colabore por un año.Otra vivienda de un ex-colaborador también fue usada como habitación de alumnos albergue C, de esta forma se pudo recibir más alumnos.",
+
+      "texto11":"En el año 1991/1992 se inició la construcción del jardín de infantes oficial de la F.C.C.F., en forma de 8 esquinas y con arquitectura de barro pisado. Los planes para dicha estructura fueron realizados por dos practicantes de „Arquitectura para el Extranjero” de la Universidad de Arquitectura en Hildesheim (Alemania).",
+
+
+      "texto12":"La instalación de biogas se hizo también en ese tiempo por iniciativa de un joven voluntario “zivi” con la ayuda de la Juventud Democrática Cristiana alemana y la parroquia católica de Herrenberg (Alemania).",
+
+
+      "texto13":"En el año 2009 la fundación celebró su jubileo de 25 años."
+
+
+
+  },
+
+
+      "historia":{
+      "strong":"Nuestra Historia",
+      "titulo":"Historia",
+      "texto1":"Una descripción amplia de la historia de la F.C.C.F. y de su fundador se brinda del libro de Klaus Kornwachs „Polvo y esperanza, José Majer − Una vida para el Gran Chaco”. El libro de 240 páginas, que está escrito en alemán, fue publicado como volumen 8 de la serie „Personalidad en la historia contemporánea” en 2017 por la editorial Lit-Verlag en Berlín. Se puede obtener el libro mediante el comercio de libros, también de la fundación respectivamente de la Asociación de los amigos del Norte Argentino (vea bajo „Contactos”). En el caso de pedir el libro de nosotros el beneficio de la venta servirá para ayudar el trabajo de la fundación − por lo cual sugerimos elegir esta manera de obtener: ISBN 978-3-643-13766-1 Edición encuadernada;  ISBN 978-3-643-33766-5 Versión de formato PDF",
+
+      "texto2":"Durante la presentación del libro con lectura en septiembre de 2017 se efectuó una presentación electrónica con imágenes de la vida del fundador de nuestra fundación José Majer. Se puede descargar esa presentación (en alemán) en formato PDF (120 MB).",
+
+      "texto3":"La alumna Marisa Sperrfechter de Mosbach (Alemania), que es bissobrina de José Majer, en el margen de un curso escolar “Diós y el mundo” ha escrito una tesis sobre José Majer “¿Un cristiano sin iglesia?” (en alemán). Un extracto de 32 páginas está disponible aquí abajo. Para poder leer la tesis completa de 77 páginas, contacten por favor con la autora bajo marisa.sperrfechter1@web.de",
+
+
+      "boton1":"Descargar Presentación",
+
+
+      "boton2":"Descargar Tesis"
+
+      
+
+
+  },
+
+
+     "voluntarios":{
+      "strong":"Voluntariado en la fundación",
+      "titulo":"Voluntarios alemanes",
+      "texto1":"En el año 1984 comenzaron a llegar los primeros voluntarios y ‘zivis’ a la fundación para hacer servicio social. Hubo una pausa de 4 años entre 1994 y 1998, después siguieron viniendo cada año más y más. Jóvenes y gente jubilada de Alemania ayudaron en diferentes tareas dentro y fuera de la ‘fundi’ (como algunos de ellos decían en sentido cariñoso). Siempre se dispuso de un albergue para los voluntarios y comida, muchos edificios en diferentes épocas cumplieron ese objetivo.",
+
+      "texto2":"Llegaron llenos de ilusiones, expectativas y diferentes motivaciones. Con ganas de dejar su granito de arena o su gran marca en la ‘fundi’. Muchos de ellos volvieron años después para ver los progresos y cambios, a realizar nuevos proyectos o simplemente a visitar viejos amigos.",
+
+      "texto3":"Diversas áreas y campos del saber lograron cubrir: Clases de música, dibujo, alemán, inglés, carpintería, electricidad, soldadura, herrería, mecánica, botánica, agricultura, informática, gastronomía, panadería, apicultura, permacultura, literatura entre muchas más seguramente.",
+
+      "texto4":"Ayudaron a construir muchas obras de infraestructura en la ‘fundi’, se podría decir casi en todas. Asistieron a los niños del jardín de infantes ‘Huahuitas’ de la fundación, y también en el comedor infantil. Colaboraron con el cuidado de los animales en la fundación. Extrajeron miel que luego fue enviada a Alemania.",
+      "texto5":"Participaron de innumerables viajes de instalaciones solares por todo el NOA (más de 300) desde el año 1994, en memorables viajes con José Majer, llenos de aventura y contratiempos que seguro jamás olvidarán. Hicieron de amigos con alumnos de la escuela y gente de Fernández, jugando al fútbol, compartiendo comidas, música, fiestas, jugando al ping pong, o simplemente saliendo a caminar al centro de Fernández.",
+      "texto6":"Indudablemente los voluntarios que pasaron, fueron pintores que dibujaron gran parte de la historia de la ‘Fundi’, plumas con tinta que podrían escribir muchas de las mejores novelas ‘best seller’.",
+      "texto7":"Un GRACIAS inmenso quedará siempre grabado en la fundación por la extensa colaboración que se recibió de ellos y del gran pueblo alemán.",
+      "texto8":"Por iniciativa de las voluntarias alemanas Martina Benz y Sofia Elena Rötzer en conjunto con alumnos renovaron el comedor en el año 2009. Para este proyecto Sofia Elena desde Argentina organizó especialmente un beneficio en Alemania para conseguir los fondos (350 €). Muchas gracias a los alumnos de la Escuela Marienau!",
+      
+      "texto9":"El 21 de septiembre de 2010, en el día de los estudiantes, los voluntarios organizaron un campeonato de fútbol para los alumnos.",
+      "texto10":"Los jovenes voluntarios en el año 2011, vendieron verduras de la huerta orgánica de la escuela en Fernández. Con el dinero recaudado se compró nuevas herramientas y semillas para el área de Agricultura."
+     
+
+  },
+
+  "jardin":{
+    "strong":"Educación Inicial",
+    "titulo":"Jardín de infantes y Comedor Infantil",
+    "texto1":"A partir de 1988 iniciamos un jardín de infantes en nuestra fundación. Gracias al apoyo de los voluntarios alemanes se concluyó la obra del jardín. Principalmente venían los chicos del barrio “Las Americas”. En este barrio viven familias con escasos recursos económicos y sociales, hasta el 2013 hubo en promedio una población de 1350 habitantes en aproximadamente 250 casas con una tasa de natalidad alta.",
+    "texto2":"En el año 1992 la Municipalidad de Fernández reconoció el jardín “Huahuitas” hasta el año 2009. El municipio enviaba las maestras jardineras con dos cocineras, para las salas de 4/5 años y otorgaba los correspondientes certificados de estudio a los niños.",
+    "texto3":"Los alimentos, materiales didácticos, juguetes, etc fueron costeados por la F.C.C.F.. Lamentablemente no se renovó el contrato con el municipio para continuar con el jardín de infantes municipal.",
+    "texto4":"Desde el 2010 al 2015 se inició un comedor infantil, con espacio para que los niños jueguen y tengan acceso a una comida diaria, normalmente a la tarde (18 hs). El sueño de la fundación es reabrir nuestro antiguo jardín para niños de 4 y 5 años."
+  },
+
+
+  "escuela":{
+
+    "institucional":{
+
+      "nombreEscuela":"Escuela de Formación Profesional y Capacitación Laboral Amntena Nº34",
+      "strong":"Escuela de Capacitación",
+      "texto1":"El dueño legal de la Escuela “Amntena Nº 34” es la Fundación Centro de Capacitación Fernández, que brinda formación en diversas especialidades a jóvenes y adultos mayores de 16 años de la ciudad de Fernández y alrededores de manera gratuita. Desde el año 1992 la escuela está reconocida por la provincia y recibe los sueldos de los profesores de la secretaría de SPEP (Servicio Provincial de Enseñanza Privada). Los materiales para la escuela, el mantenimiento de los albergues y la alimentación de los alumnos lo está pagando la F.C.C.F",
+      "texto2":"Contamos con diferentes áreas de formación:Agricultura, Carpintería, Electricidad y Energía Solar y Mecánica de Automotor. Estas se complementan con cultura general como espacio común para todas las carreras.",
+      "texto3":"La escuela recibe alumnos externos mixtos (varones y mujeres). Hasta el año 2019 recibimos alumnos de las provincias del Norte Argentino como Chaco, Formosa, Salta, Jujuy, Tucuman, asi como tambien alumnos de otros departamentos de Santiago del Estero. Ellos fueron albergados durante su tiempo de estudio en las instalaciones de la F.C.C.F, en donde contaban con todas las comodidades como habitaciones, cocinas, comerdor, baños, lugares de recreación, etc.",
+      "texto4":"La formación de las carreras dura 3 años. En el primer año de enseñanza los alumnos tienen la posibilidad de conocer todas las áreas haciendo rotación, para luego especializarse en el 2º y 3º año de aprendizaje y obtener su título. Gracias a las gestiones del S.P.E.P. en el año 2013 la directora de mencionada institución, anunció que todos los títulos otorgados por ellos tienen validez en todo el territorio nacional argentino."
+
+
+
+    }
+  },
+
+  "ofertaEducativa":{
+
+    "1":{
+          "rama":"Agricultura",
+          "nombre": "Horticultor",
+          "requisito": "Mayores de 16 años con secundario completo o cursando el mismo",
+          "duracion": "9 meses"
+    },
+
+    "2":{
+             "nombre": "Operador Horticultor",
+            "rama":"Agricultura",
+            "requisito": "Certificado de 7º grado (primario completo)",
+            "duracion": "4 meses"
+    },
+
+    "3":{
+          
+       "nombre": "Mecánico de Motores de Combustión Interna",
+    "rama":"Mecánica",
+    "requisito": "Mayores de 16 años con secundario completo o cursando el mismo",
+    "duracion": "9 meses"
+
+    },
+
+    "4":{
+      
+       "nombre": "Auxiliar Mecánico de Motores Nafteros",
+    "rama":"Mecánica",
+    "requisito": "Certificado de 7º grado (primario completo)",
+    "duracion": "4 meses"
+
+    },
+
+    "5":{
+       
+        "nombre": "Instalador de Sistemas MBT (Electricidad Domiciliaria)",
+    "rama":"Electricidad",
+    "requisito": "Mayores de 16 años con secundario completo o cursando el mismo",
+    "duracion": "9 meses"
+
+    },
+
+    "6":{
+
+       "nombre": "Montador Electricista Domiciliario",
+    "rama":"Electricidad",
+    "requisito": "Certificado de 7º grado (primario completo)",
+    "duracion": "4 meses"
+      
+
+
+    },
+
+    "7":{
+       "nombre": "Auxiliar en Electrónica",
+    "rama":"Electrónica",
+    "requisito": "Mayores de 16 años con secundario completo o cursando el mismo",
+    "duracion": "9 meses"
+
+
+    },
+
+    "8":{
+      "nombre": "Instalador de Sistemas Eléctricos de Energías Renovables",
+      "rama":"Energías Renovables",
+    "requisito": "Mayores de 16 años con secundario completo o cursando el mismo",
+    "duracion": "9 meses"
+
+
+    },
+
+    "9":{
+        
+          "nombre": "Operador de Máquinas Principales de Aserradero",
+    "rama":"Carpintería",
+    "requisito": "Certificado de 7º grado (primario completo)",
+    "duracion": "4 meses"
+
+    },
+
+    "titulo":"Áreas de Formación",
+    "subtitulo":"Conocé las distintas propuestas de formación profesional que ofrece nuestra institución.",
+    "requisito":"Requisito de Ingreso",
+    "masInfo":"Mas Información",
+    "profesor":"Profesor",
+    "carga":"Carga Horaria",
+    "duracion":"Duración",
+    "promocion":"Buenos días quiero mas Información sobre la capacitación en"
+
+
+
+
+
+  },
+
+
+  "profesores":{
+
+    "titulo":"Equipo Directivo y Docente",
+    "texto1":"La Escuela Amntena Nº34 cuenta con un plantel docente y no docente de excelentísima calidad, con alta preparación pedagógica y un gran sentido de pertenencia y arraigo con los objetivos institucionales. Nos centramos en brindar educación de calidad sin descuidar los aspectos relacionados con el buen trato y la humanidad hacia los alumnos que conforman la comunidad educativa de nuestra querida institución.",
+
+    "1":{
+      "nombre":"Luis Díaz",
+      "rol":"Director"
+    },
+
+    
+    "2":{
+      "nombre":"Bettina Majer",
+      "rol":"Secretaria"
+    },
+
+    "3":{
+      "nombre":"Cristina Majer",
+      "rol":"Preceptora"
+    },
+
+    "4":{
+      "nombre":"Irineo Soria",
+      "rol":"Maestro de Cultura General"
+    },
+
+    "5":{
+      "nombre":"Karina Perez",
+      "rol":"MEP de Informática"
+    },
+
+    "6":{
+      "nombre":"Franklin Russo",
+      "rol":"MEP de Carpintería"
+    },
+
+    "7":{
+      "nombre":"Dario Díaz",
+      "rol":"MEP de Electricidad Domiciliaria"
+    },
+
+    "8":{
+      "nombre":"Diego Gutierrez",
+      "rol":"MEP de Electrónica"
+    },
+
+    "9":{
+      "nombre":"Daniel Condori",
+      "rol":"MEP de Energía Solar"
+    },
+
+    "10":{
+      "nombre":"Ariel Santillán",
+      "rol":"MEP de Mecánica"
+    },
+
+    "11":{
+      "nombre":"Misael Rodríguez",
+      "rol":"MEP Agricultura"
+    },
+
+    "12":{
+      "nombre":"Walter Maldonado",
+      "rol":"Ayudante Técnico"
+    },
+
+    "13":{
+      "nombre":"Guillermo Torrez",
+      "rol":"Ordenanza"
+    }
+
+
+
+  },
+  
+
+
+  "inscripciones":{
+    "strong":"Accede a nuestras capacitaciones",
+    "titulo":"Inscripciones",
+    "texto1":" Conocé toda la documentación necesaria para realizar la inscripción en nuestra institución.",
+    "subtitulo":"Requisitos de Inscripción",
+    "fechas":"Fechas",
+    "del":"Del",
+    "strongFechas":"Para 2do Módulo: 1 de Julio",
+    "al":"al",
+    "strongFechaFin":"1 de Agosto",
+    "lugar":"Lugar",
+    "ubicacion":"Escuela Amntena Nº34 - Matienzo S/N - Barrio Las Ámericas -Fernández.",
+    "botonWhatsapp":"Consultar por WhatsApp"
+
+  },
+
+
+
+  "productos":{
+    "miel":{
+      "titulo":"Miel 100% Natural",
+      "strong":"Apicultura local",
+      "texto1":"Ofrecemos miel santiagueña 100% pura de arboles de algarrobo, chañar, quebracho y flores silvestres.",
+      "texto2":"En el año 1976 se exportó el primer cargamento de miel a Alemania y durante decenas de años enviamos más de 300 toneladas. Estamos avalados por innumerables estudios de laboratorios y pruebas de calidad tanto en Argentina como en Alemania. La miel de esta región es buena, ya los Incas en su época la traían del Chaco y la consumían porque era de buena calidad.",
+      "texto3":"Vendemos miel directo al publico en Fernández, también en Alemania por medio de negocios del 3º mundo y nuestro depósito en Gundelsheim/Neckar. Para más información sobre los precios actuales y las posibilidades de entrega dirigirse a la asociación de apoyo alemana por teléfono o por correo electrónico (vea el menú bajo “Contactos”).",
+      "texto4":"Vea nuestra hoja sobre la miel del Gran Chaco argentino (solamente en alemán).",
+      "descarga":"Descargar Hoja",
+      "WhatsApp":"Hola, quisiera obtener información sobre la compra de miel.",
+      "contactoMiel":{
+        "titulo":"Información de Contacto",
+        "direccion":"Dirección",
+        "telefonos":"Teléfonos"
+
+      }
+    },
+
+    "energias":{
+      "solar":{
+        "strong":"Energía Solar",
+        "titulo":"Instalaciones Solares",
+        "texto1":"Gracias al trabajo en equipo del profesor y alumnos de electricidad y energías alternativas, José y voluntarios alemanes se instalaron equipos fotovoltáicos en el Norte Argentino.",
+        "texto2":"Cocina solar  y horno solar ambos permiten el ahorro de energía convencional, como por ejemplo: madera, gas, electricidad, etc..",
+        "texto3":"Instalaciones de equipos solares para abastecer de energía eléctrica: Instalación fotovoltaica, colectores solares para calentar agua, cocinas solares parabólicas, secadores solares para deshidratar frutas, verduras y hierbas, etc. ",
+        "texto4":"Mapa de las instalaciones solares de la F.C.C.F. en el Norte Argentino (Los lugares de los diferentes equipos solares son marcados con luces de diferentes colores)"
+        
+
+
+
+      },
+
+      "biogas":{
+        "strong":"Energía Limpia",
+        "titulo":"Biogas",
+        "texto1":"En el año 1992 la F.C.C.F. construyó una planta de biogas en su terreno, dicha instalación se utilizó para cocinar en el albergue de los alumnos. El sistema de funcionamiento se realizaba a través del ingreso de estiércol de animales (material orgánico) mezclado con agua en la cámara del biogas, al fin el resultado del proceso de biodigestión era la obtención de gas y material orgánico para abonar la tierra. Dicho gas pasaba por un filtro para mejorar su calidad hasta llegar a la cocina.",
+        "texto2":"Cúpula de gas y quemadores de biogas en la cocina:"
+        
+
+      },
+
+      "turismo":{
+
+        "strong":"Servicio de turismo",
+        "titulo":"Viajes de Turismo Alternativo",
+        "texto1":"Jose Majer ofrecía en los inicios de la Fundación viajes de turismo alternativo por todo el norte argentino. Usualmente la salida era en nuestra sede de Fernández.",
+        "texto2":"Nuestras experiencias: “José el relámpago de los Andes” (foto) guio muchos viajes a lugares interesantes de toda clase en auto, camioneta, combi e inclusive un viejo colectivo Mercedes Benz. Como alemán, que llegó a Argentina en 1966, siempre mostró a sus visitas y compatriotas el país y su gente. Él conocía todos los caminos (y atajos), hoteles económicos y cafés, donde podian conseguir cafés riquísimos. El mostraba a sus huéspedes los pueblos, museos, iglesias y bodegas también los ríos, caminos y montañas. En la nochecita los huéspedes limpiaban sus anteojos de la tierra. José conocía todos los artesanos que viven en los valles de los Andes. Existía posibilidad de hacer compras muy baratas. "
+
+      }
+    }
+  }
+
+
+
+
+
+
+
+  
+
+}

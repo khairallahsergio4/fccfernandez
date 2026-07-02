@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Inscripciones abiertas para cursos 2026",
+    "fecha": "05 de Junio de 2026",
+    "imagen": "/images/noticia1.jpg",
+    "descripcion": "Ya se encuentran abiertas las inscripciones para los cursos y talleres de la Fundación.",
+    "link": "https://www.facebook.com/FCCF.ARGENTINA/"
+  },
+  {
+    "id": 2,
+    "titulo": "Nueva capacitación en informática",
+    "fecha": "01 de Junio de 2026",
+    "imagen": "/images/noticia2.jpg",
+    "descripcion": "Comenzó una nueva capacitación destinada a jóvenes y adultos.",
+    "link": "https://www.facebook.com/FCCF.ARGENTINA/"
+  },
+  {
+    "id": 3,
+    "titulo": "Actividades deportivas comunitarias",
+    "fecha": "28 de Mayo de 2026",
+    "imagen": "/images/noticia3.jpg",
+    "descripcion": "Niños y jóvenes participaron de una jornada deportiva organizada por la Fundación.",
+    "link": "https://www.facebook.com/FCCF.ARGENTINA/"
+  }
+]
