@@ -1,4 +1,487 @@
 {
-  "welcome": "Willkommen",
-  "start": "Starten"
+
+  "web": {
+    "nombreFundacion": "Stiftung Ausbildungszentrum Fernández"
+  },
+  "welcome": {
+    "title": "Willkommen bei der Stiftung Ausbildungszentrum Fernández",
+    "p": "Wählen Sie Ihre Sprache, um fortzufahren",
+    "lema": "Wir bilden Menschen aus, wir verändern Gemeinschaften"
+  },
+  "menu": {
+    "lafundacion": {
+      "item1": "Die Stiftung",
+      "item2": "Wer wir sind",
+      "item3": "Vorstand",
+      "item4": "Geschichte",
+      "item5": "Deutsche Freiwillige",
+      "item6": "Kindergarten"
+    },
+
+    "escuela": {
+      "item1": "Schule Amntena Nr. 34",
+      "item2": "Institutionelles",
+      "item3": "Bildungsangebot",
+      "item4": "Leitung und Lehrkräfte",
+      "item5": "Anmeldungen"
+    },
+
+    "productos": {
+      "item1": "Produkte und Dienstleistungen",
+      "item2": "Imkerei",
+      "item3": "Solarenergie",
+      "item4": "Tourismus"
+    },
+    "contacto": "Kontakt",
+    "donar": "Spenden"
+
+  },
+
+  "fundador": {
+    "titulo": "Unsere Geschichte",
+    "nombreFundador": "José Majer, Gründer",
+
+    "texto1": "José Majer war katholischer Priester in Deutschland und wurde von seinem Bischof für drei Jahre in den Norden Argentiniens, in die Provinz Santiago del Estero, entsandt, wo er die F.C.C.F. gründete und wo sie sich noch heute befindet. Schon damals erkannte er, dass sich seine Mission angesichts der sozioökonomischen Nöte der Bevölkerung nicht allein auf die pastorale Arbeit beschränken konnte, sondern auch die Ausbildung zur Lösung der Armutsprobleme einschließen musste.",
+    "texto2": "Eine ausführliche Darstellung der Geschichte der F.C.C.F. und ihres Gründers bietet das Buch von Klaus Kornwachs „Staub und Hoffnung – José Majer, ein Leben für den Gran Chaco“. Das 240 Seiten starke, auf Deutsch verfasste Buch erschien 2017 als Band 8 der Reihe „Persönlichkeit in der Zeitgeschichte“ im Lit-Verlag Berlin. Es ist über den Buchhandel erhältlich sowie über die Stiftung beziehungsweise den Verein der Freunde Nordargentiniens, dessen Kontaktdaten Sie im Bereich „Kontakt“ finden.",
+
+    "boton": "Buchvorstellung",
+    "botonComprar": "Buch kaufen"
+
+  },
+
+  "testimonio": {
+
+    "escuelaNombre": "Berufsbildungs- und Ausbildungsschule Amntena Nr. 34",
+    "titulo": "Wir bilden Menschen aus, wir verändern Gemeinschaften",
+    "texto": "Die Stiftung Ausbildungszentrum Fernández möchte den jungen Menschen der Region das Wissen und die Ausbildung vermitteln, die sie für ihren weiteren Lebensweg benötigen. Darüber hinaus ist sie zu einem sozialen Begegnungsraum zwischen der nordargentinischen und der deutschen Kultur geworden, der beide Seiten bereichert hat, indem er den Beteiligten einen ganzheitlichen Blick auf die jeweils andere Realität ermöglicht hat.",
+    "boton": "Mehr erfahren",
+    "tarjeta1": {
+      "titulo": "+40 Jahre",
+      "texto": "Wir bilden junge Menschen aus, fördern Bildungsprojekte und stärken die Gemeinschaft von Fernández."
+    },
+
+    "tarjeta2": {
+      "titulo": "Gemeinschaft",
+      "texto": "• Bildung • Kultur • Ausbildung"
+    }
+  },
+
+  "infomiel": {
+    "tab1": "Lokale Produktion",
+    "titulo1": "Naturhonig der",
+    "titulo2": "Stiftung Ausbildungszentrum Fernández",
+    "texto": "Wir bieten 100 % reinen Honig aus Santiago, gewonnen von Algarrobo-, Chañar- und Quebracho-Bäumen sowie von Wildblumen. Er wird durch zahlreiche Labortests und Qualitätsprüfungen sowohl in Argentinien als auch in Deutschland bestätigt.",
+    "boton": "Kaufen",
+    "masInfo": "Mehr Informationen",
+    "tab2": "100 % natürlich",
+    "tab3": "Lokale Produktion",
+    "tab4": "Unterstützt die Stiftung",
+    "imagenTitulo": "Reiner handwerklicher Honig",
+    "imagenSubtitulo": "Hergestellt nach hohen Qualitätsstandards.",
+    "comprar": {
+      "titulo": "Wo möchten Sie kaufen?",
+      "subtitulo": "Wählen Sie Ihr Land, um fortzufahren.",
+      "argentina": "In Argentinien kaufen",
+      "alemania": "In Deutschland kaufen"
+    }
+
+  },
+
+
+  "noticias": {
+
+    "titulo": "Neuigkeiten und Aktuelles",
+    "subtitulo": "Was in der Stiftung passiert",
+    "texto": "Erfahren Sie mehr über unsere Aktivitäten, Ausbildungen, Veranstaltungen und Gemeinschaftsprojekte",
+    "verMas": "Beitrag ansehen"
+
+  },
+
+  "footer": {
+    "redes": "Ausbildung und Engagement für die Gemeinschaft – auch in den sozialen Netzwerken",
+    "desarrollado": "Entwickelt von SkSoftware",
+    "mapa": "Wie man hinkommt"
+  },
+
+
+  "quienesSomos": {
+    "strong": "Unsere Institution",
+    "titulo": "Wer wir sind",
+    "texto1": "Wir sind eine Organisation, die sich für die soziale, bildungspolitische und gemeinschaftliche Entwicklung einsetzt und Tag für Tag daran arbeitet, Möglichkeiten zu schaffen, die die Lebensqualität der Menschen verbessern.",
+    "texto2": "Durch unsere Programme und Projekte fördern wir die Inklusion, Ausbildung und Stärkung der Fähigkeiten von Kindern, Jugendlichen und Erwachsenen und vermitteln Werte wie Solidarität, Beteiligung und Engagement für die Gemeinschaft. Über unsere Schule „Amntena“ möchten wir junge Menschen – die größtenteils aus ländlichen Gebieten und Familien mit geringen wirtschaftlichen Ressourcen stammen – in Berufen mit guten Beschäftigungsaussichten ausbilden, etwa in Landwirtschaft und ökologischem Gartenbau, Tischlerei, Gerberei und Lederverarbeitung, Imkerei, Kfz-Mechanik sowie Elektrotechnik mit alternativen Energien, damit sie nach drei Jahren Ausbildung eine Arbeitsstelle in der Region finden können.",
+    "texto3": "Wir glauben an gemeinsames Arbeiten und den Aufbau einer gerechteren Zukunft, in der jeder Mensch sein Potenzial voll entfalten kann."
+
+  },
+
+  "comienzos": {
+    "strong": "Unsere Anfänge",
+    "titulo": "Die Anfänge",
+    "texto1": "José Majer war katholischer Priester in Deutschland und wurde von seinem Bischof für drei Jahre in den Norden Argentiniens, in die Provinz Santiago del Estero, entsandt, wo er die F.C.C.F. gründete und wo sie sich noch heute befindet. Schon damals erkannte er, dass sich seine Mission angesichts der sozioökonomischen Nöte der Bevölkerung nicht allein auf die pastorale Arbeit beschränken konnte, sondern auch die Ausbildung zur Lösung der Armutsprobleme einschließen musste. So begann er in der Pfarrei von Brea Pozo, deren Pfarrer er ab 1968 war, Projekte zum Sammeln von Regenwasser in Zisternen und zur Ziegelherstellung. Dafür wurde eine handwerkliche und landwirtschaftliche Genossenschaft gegründet und die Produkte nach Deutschland exportiert; es wurde ein landwirtschaftlicher Maschinendienst organisiert, eine Lehrtischlerei für Jugendliche gebaut, Fußball- und Basketballplätze angelegt sowie Näh-, Koch- und Schweißkurse mit Lehrkräften der Berufsschule von Santiago del Estero (nach dem System „FPA“ – Beschleunigte Berufsausbildung) eingeführt.",
+
+    "texto2": "Der argentinische Bischof teilte seine pastorale Vision, die die Notwendigkeit sozialer Arbeit betonte, nicht, weshalb José beschloss, auf seinen Vertrag in der Diözese zu verzichten. Er musste sein soziales Engagement ohne die Unterstützung der katholischen Kirche fortsetzen und begann daraufhin, in einem landwirtschaftlichen Dienst für Kleinbauern (ISAN) zu arbeiten, der von der katholischen Organisation Misereor gefördert und unterstützt wurde. Dadurch vertiefte er sein Wissen über die Lage der Menschen in verschiedenen Teilen Nordargentiniens.",
+
+    "texto3": "Zu jener Zeit war soziale Arbeit bei den Militärregierungen, die im März 1976 in Argentinien die Macht übernahmen, nicht wohlgelitten. In diesem Kontext der Repression wurde José Majer zweimal festgenommen. Nach seiner Freilassung gab er seine beratende Tätigkeit bei Misereor auf, um Probleme mit dem Militär zu vermeiden, und beschloss 1976, sich in der Ortschaft Fernández, nicht weit von seiner vorherigen Pfarrei entfernt, niederzulassen.",
+
+
+    "texto4": "Um die Kosten seines privaten Lebensunterhalts zu decken, kaufte José Majer damals 100 Bienenstöcke, da der Honig aus Santiago für seine sehr gute Qualität bekannt war – schon die Inkas kannten und schätzten ihn.",
+
+
+    "texto5": "Es begann soziale Arbeit, und gleichzeitig entwickelte sich die Berufsausbildung. So begann er, seinen Traum zu verwirklichen: Bereits 1978 wollte er ein Ausbildungszentrum für Jugendliche mit geringen wirtschaftlichen Mitteln schaffen, um ihnen ein Werkzeug an die Hand zu geben – „Wissen und Ausbildung“ –, da es für ihre Eltern zunehmend schwieriger wurde, die Bildung zu finanzieren.",
+
+    "texto6": "Das erste errichtete Gebäude wurde für eine Gerberei genutzt, um Leder für die Handwerksproduktion herzustellen. In diesem Gebäude fanden, wie auch in Brea Pozo, Kurse der staatlichen Berufsschule von Santiago del Estero zur Erwachsenenbildung statt (nach dem System „FPA“).",
+
+    "texto7": "Die Stiftung Ausbildungszentrum Fernández, eine gemeinnützige Einrichtung, wurde am 30. Januar 1984 von José Majer und deutschen Freunden formell gegründet, einige Zeit nach dem Ende der Militärdiktatur.",
+
+
+    "texto8": "Auch auf diesem Gelände begannen die ersten Versuche unkonventioneller Architektur, bei denen Lehm als Baumaterial für „iglu-artige“ Wohnhäuser verwendet wurde, die während der Schulzeit als Unterkunft für Schüler dienten, die aus dem Landesinneren der Provinz kamen.",
+
+    "texto9": "Mit der Zeit wurde das Gelände der Stiftung dank der Hilfe deutscher Freunde erweitert; es wurde ein angrenzendes Grundstück mit weiteren Hektar erworben.",
+
+    "texto10": "Eines der Rundhäuser wurde zeitweise als Kindergarten genutzt, damit eine Erzieherin aus Tübingen (Deutschland) ein Jahr lang mitarbeiten konnte. Ein weiteres Haus eines ehemaligen Mitarbeiters wurde ebenfalls als Schülerunterkunft „Albergue C“ genutzt, sodass mehr Schüler aufgenommen werden konnten.",
+
+    "texto11": "In den Jahren 1991/1992 begann der Bau des offiziellen Kindergartens der F.C.C.F., in Form eines Achtecks und in Stampflehmbauweise. Die Pläne für dieses Gebäude wurden von zwei Praktikanten des Fachbereichs „Architektur für das Ausland“ der Universität Hildesheim (Deutschland) erstellt.",
+
+
+    "texto12": "Die Biogasanlage entstand ebenfalls in dieser Zeit auf Initiative eines jungen Zivildienstleistenden mit Unterstützung der Jungen Union Deutschlands und der katholischen Pfarrei Herrenberg (Deutschland).",
+
+
+    "texto13": "Im Jahr 2009 feierte die Stiftung ihr 25-jähriges Jubiläum."
+
+
+
+  },
+
+
+  "historia": {
+    "strong": "Unsere Geschichte",
+    "titulo": "Geschichte",
+    "texto1": "Eine ausführliche Darstellung der Geschichte der F.C.C.F. und ihres Gründers bietet das Buch von Klaus Kornwachs „Staub und Hoffnung, José Majer − Ein Leben für den Gran Chaco“. Das 240 Seiten starke, auf Deutsch verfasste Buch erschien 2017 als Band 8 der Reihe „Persönlichkeit in der Zeitgeschichte“ im Lit-Verlag Berlin. Es ist über den Buchhandel erhältlich sowie über die Stiftung beziehungsweise den Verein der Freunde Nordargentiniens (siehe unter „Kontakt“). Wer das Buch bei uns bestellt, unterstützt mit dem Erlös die Arbeit der Stiftung – weshalb wir diesen Bezugsweg empfehlen: ISBN 978-3-643-13766-1 gebundene Ausgabe; ISBN 978-3-643-33766-5 PDF-Version",
+
+    "texto2": "Bei der Buchvorstellung mit Lesung im September 2017 wurde eine elektronische Präsentation mit Bildern aus dem Leben unseres Stiftungsgründers José Majer gezeigt. Diese Präsentation (auf Deutsch) kann als PDF (120 MB) heruntergeladen werden.",
+
+    "texto3": "Die Schülerin Marisa Sperrfechter aus Mosbach (Deutschland), eine Großnichte von José Majer, hat im Rahmen eines Schulkurses „Gott und die Welt“ eine Arbeit über José Majer mit dem Titel „Ein Christ ohne Kirche?“ verfasst (auf Deutsch). Ein 32-seitiger Auszug steht hier unten zur Verfügung. Um die vollständige, 77-seitige Arbeit zu lesen, wenden Sie sich bitte an die Autorin unter marisa.sperrfechter1@web.de",
+
+
+    "boton1": "Präsentation herunterladen",
+
+
+    "boton2": "Arbeit herunterladen"
+
+
+
+
+  },
+
+
+  "voluntarios": {
+    "strong": "Freiwilligenarbeit in der Stiftung",
+    "titulo": "Deutsche Freiwillige",
+    "texto1": "Im Jahr 1984 kamen die ersten Freiwilligen und „Zivis“ zur Stiftung, um Sozialdienst zu leisten. Zwischen 1994 und 1998 gab es eine vierjährige Pause, danach kamen jedes Jahr mehr. Junge Menschen und Ruheständler aus Deutschland halfen bei verschiedenen Aufgaben innerhalb und außerhalb der „Fundi“ (wie einige von ihnen liebevoll sagten). Es gab stets eine Unterkunft und Verpflegung für die Freiwilligen; im Laufe der Zeit erfüllten verschiedene Gebäude diesen Zweck.",
+
+    "texto2": "Sie kamen voller Vorfreude, Erwartungen und unterschiedlicher Beweggründe – mit dem Wunsch, ihren kleinen oder großen Beitrag in der „Fundi“ zu leisten. Viele von ihnen kehrten Jahre später zurück, um die Fortschritte und Veränderungen zu sehen, neue Projekte zu verwirklichen oder einfach alte Freunde zu besuchen.",
+
+    "texto3": "Sie deckten die unterschiedlichsten Wissensbereiche ab: Musik-, Zeichen-, Deutsch- und Englischunterricht, Tischlerei, Elektrotechnik, Schweißen, Schmiedehandwerk, Mechanik, Botanik, Landwirtschaft, Informatik, Gastronomie, Bäckerei, Imkerei, Permakultur, Literatur und sicherlich noch vieles mehr.",
+
+    "texto4": "Sie halfen beim Bau zahlreicher Infrastrukturprojekte in der „Fundi“ – man könnte sagen, fast überall. Sie betreuten die Kinder im stiftungseigenen Kindergarten „Huahuitas“ sowie in der Kinderspeisung. Sie halfen bei der Pflege der Tiere der Stiftung mit. Sie ernteten Honig, der später nach Deutschland versandt wurde.",
+    "texto5": "Sie nahmen seit 1994 an zahllosen Fahrten zur Installation von Solaranlagen im gesamten Nordwesten Argentiniens (mehr als 300) teil, an denkwürdigen Reisen mit José Majer voller Abenteuer und Zwischenfälle, die sie sicher nie vergessen werden. Sie schlossen Freundschaften mit Schülern der Schule und Menschen aus Fernández, spielten Fußball, teilten Mahlzeiten, Musik und Feste, spielten Tischtennis oder machten einfach Spaziergänge ins Zentrum von Fernández.",
+    "texto6": "Zweifellos waren die Freiwilligen, die hier waren, Maler, die einen großen Teil der Geschichte der „Fundi“ zeichneten, Federn mit Tinte, die manch einen Bestseller-Roman hätten schreiben können.",
+    "texto7": "Ein riesiges DANKE wird in der Stiftung immer in Erinnerung bleiben für die umfangreiche Unterstützung, die wir von ihnen und dem großartigen deutschen Volk erhalten haben.",
+    "texto8": "Auf Initiative der deutschen Freiwilligen Martina Benz und Sofia Elena Rötzer wurde 2009 gemeinsam mit den Schülern die Kantine renoviert. Für dieses Projekt organisierte Sofia Elena von Argentinien aus eigens eine Benefizveranstaltung in Deutschland, um die nötigen Mittel (350 €) zu beschaffen. Vielen Dank an die Schüler der Marienau-Schule!",
+
+    "texto9": "Am 21. September 2010, dem Tag der Schüler, organisierten die Freiwilligen eine Fußballmeisterschaft für die Schüler.",
+    "texto10": "Die jungen Freiwilligen verkauften 2011 Gemüse aus dem biologischen Schulgarten in Fernández. Mit den Einnahmen wurden neue Werkzeuge und Saatgut für den Bereich Landwirtschaft angeschafft."
+
+
+  },
+
+  "jardin": {
+    "strong": "Frühkindliche Bildung",
+    "titulo": "Kindergarten und Kinderspeisung",
+    "texto1": "Seit 1988 betreiben wir einen Kindergarten in unserer Stiftung. Dank der Unterstützung deutscher Freiwilliger konnte der Bau des Kindergartens abgeschlossen werden. Hauptsächlich kamen Kinder aus dem Viertel „Las Américas“. In diesem Viertel leben Familien mit geringen wirtschaftlichen und sozialen Ressourcen; bis 2013 lebten dort durchschnittlich etwa 1.350 Einwohner in rund 250 Häusern bei hoher Geburtenrate.",
+    "texto2": "1992 erkannte die Gemeindeverwaltung von Fernández den Kindergarten „Huahuitas“ an, dies galt bis 2009. Die Gemeinde stellte die Erzieherinnen sowie zwei Köchinnen für die Gruppen der 4- bis 5-Jährigen und stellte den Kindern die entsprechenden Abschlusszeugnisse aus.",
+    "texto3": "Lebensmittel, Lehrmaterialien, Spielzeug usw. wurden von der F.C.C.F. finanziert. Leider wurde der Vertrag mit der Gemeinde für die Fortführung des städtischen Kindergartens nicht erneuert.",
+    "texto4": "Von 2010 bis 2015 wurde eine Kinderspeisung eingerichtet, mit Platz zum Spielen und täglichem Zugang zu einer Mahlzeit, üblicherweise am Nachmittag (18 Uhr). Der Traum der Stiftung ist es, unseren früheren Kindergarten für Kinder von 4 und 5 Jahren wieder zu eröffnen."
+  },
+
+
+  "escuela": {
+
+    "institucional": {
+
+      "nombreEscuela": "Berufsbildungs- und Ausbildungsschule Amntena Nr. 34",
+      "strong": "Ausbildungsschule",
+      "texto1": "Rechtsträger der Schule „Amntena Nr. 34“ ist die Stiftung Ausbildungszentrum Fernández, die Jugendlichen und Erwachsenen ab 16 Jahren aus Fernández und Umgebung unentgeltlich eine Ausbildung in verschiedenen Fachrichtungen anbietet. Seit 1992 ist die Schule von der Provinz anerkannt und erhält die Gehälter der Lehrkräfte über die Behörde SPEP (Provinzieller Dienst für private Bildung). Die Materialien für die Schule, die Instandhaltung der Unterkünfte und die Verpflegung der Schüler werden von der F.C.C.F. finanziert.",
+      "texto2": "Wir bieten verschiedene Ausbildungsbereiche an: Landwirtschaft, Tischlerei, Elektrotechnik und Solarenergie sowie Kfz-Mechanik. Diese werden durch Allgemeinbildung als gemeinsamen Bestandteil aller Ausbildungsgänge ergänzt.",
+      "texto3": "Die Schule nimmt externe, gemischte Schüler auf (männlich und weiblich). Bis 2019 nahmen wir Schüler aus den nordargentinischen Provinzen Chaco, Formosa, Salta, Jujuy und Tucumán sowie aus anderen Departements von Santiago del Estero auf. Sie wurden während ihrer Ausbildungszeit in den Einrichtungen der F.C.C.F. untergebracht, wo sie über alle nötigen Annehmlichkeiten wie Zimmer, Küchen, Speisesaal, Bäder, Freizeitbereiche usw. verfügten.",
+      "texto4": "Die Ausbildung dauert drei Jahre. Im ersten Ausbildungsjahr haben die Schüler die Möglichkeit, im Rotationsprinzip alle Bereiche kennenzulernen, um sich anschließend im zweiten und dritten Jahr zu spezialisieren und ihren Abschluss zu erlangen. Dank der Bemühungen des S.P.E.P. gab die Direktorin dieser Institution 2013 bekannt, dass alle von ihnen verliehenen Abschlüsse landesweite Gültigkeit in Argentinien haben."
+
+
+
+    }
+  },
+
+  "ofertaEducativa": {
+
+    "1": {
+      "rama": "Landwirtschaft",
+      "nombre": "Gärtner/Gemüsebauer",
+      "requisito": "Ab 16 Jahren, mit abgeschlossener oder laufender Sekundarschulbildung",
+      "duracion": "9 Monate"
+    },
+
+    "2": {
+      "nombre": "Hilfskraft Gemüsebau",
+      "rama": "Landwirtschaft",
+      "requisito": "Abschlusszeugnis der 7. Klasse (abgeschlossene Grundschule)",
+      "duracion": "4 Monate"
+    },
+
+    "3": {
+
+      "nombre": "Mechaniker für Verbrennungsmotoren",
+      "rama": "Mechanik",
+      "requisito": "Ab 16 Jahren, mit abgeschlossener oder laufender Sekundarschulbildung",
+      "duracion": "9 Monate"
+
+    },
+
+    "4": {
+
+      "nombre": "Hilfsmechaniker für Benzinmotoren",
+      "rama": "Mechanik",
+      "requisito": "Abschlusszeugnis der 7. Klasse (abgeschlossene Grundschule)",
+      "duracion": "4 Monate"
+
+    },
+
+    "5": {
+
+      "nombre": "Installateur für Niederspannungssysteme (Hauselektrik)",
+      "rama": "Elektrotechnik",
+      "requisito": "Ab 16 Jahren, mit abgeschlossener oder laufender Sekundarschulbildung",
+      "duracion": "9 Monate"
+
+    },
+
+    "6": {
+
+      "nombre": "Monteur für Hauselektrik",
+      "rama": "Elektrotechnik",
+      "requisito": "Abschlusszeugnis der 7. Klasse (abgeschlossene Grundschule)",
+      "duracion": "4 Monate"
+
+
+    },
+
+    "7": {
+      "nombre": "Hilfskraft Elektronik",
+      "rama": "Elektronik",
+      "requisito": "Ab 16 Jahren, mit abgeschlossener oder laufender Sekundarschulbildung",
+      "duracion": "9 Monate"
+
+
+    },
+
+    "8": {
+      "nombre": "Installateur für elektrische Anlagen erneuerbarer Energien",
+      "rama": "Erneuerbare Energien",
+      "requisito": "Ab 16 Jahren, mit abgeschlossener oder laufender Sekundarschulbildung",
+      "duracion": "9 Monate"
+
+
+    },
+
+    "9": {
+
+      "nombre": "Bediener von Sägewerks-Hauptmaschinen",
+      "rama": "Tischlerei",
+      "requisito": "Abschlusszeugnis der 7. Klasse (abgeschlossene Grundschule)",
+      "duracion": "4 Monate"
+
+    },
+
+    "titulo": "Ausbildungsbereiche",
+    "subtitulo": "Lernen Sie die verschiedenen Berufsausbildungsangebote unserer Institution kennen.",
+    "requisito": "Zugangsvoraussetzung",
+    "masInfo": "Mehr Informationen",
+    "profesor": "Lehrkraft",
+    "carga": "Wochenstunden",
+    "duracion": "Dauer",
+    "promocion": "Guten Tag, ich hätte gerne weitere Informationen zur Ausbildung in"
+
+
+
+
+  },
+
+
+  "profesores": {
+
+    "titulo": "Leitung und Lehrkräfte",
+    "texto1": "Die Schule Amntena Nr. 34 verfügt über ein Lehr- und Verwaltungspersonal von höchster Qualität, mit ausgezeichneter pädagogischer Ausbildung und einem großen Zugehörigkeits- und Verantwortungsgefühl gegenüber den institutionellen Zielen. Wir legen Wert auf hochwertige Bildung, ohne dabei den respektvollen und menschlichen Umgang mit den Schülern unserer geschätzten Bildungseinrichtung zu vernachlässigen.",
+
+    "1": {
+      "nombre": "Luis Díaz",
+      "rol": "Direktor"
+    },
+
+
+    "2": {
+      "nombre": "Bettina Majer",
+      "rol": "Sekretärin"
+    },
+
+    "3": {
+      "nombre": "Cristina Majer",
+      "rol": "Aufsichtslehrerin"
+    },
+
+    "4": {
+      "nombre": "Irineo Soria",
+      "rol": "Lehrer für Allgemeinbildung"
+    },
+
+    "5": {
+      "nombre": "Karina Perez",
+      "rol": "Fachlehrerin Informatik"
+    },
+
+    "6": {
+      "nombre": "Franklin Russo",
+      "rol": "Fachlehrer Tischlerei"
+    },
+
+    "7": {
+      "nombre": "Dario Díaz",
+      "rol": "Fachlehrer Hauselektrik"
+    },
+
+    "8": {
+      "nombre": "Diego Gutierrez",
+      "rol": "Fachlehrer Elektronik"
+    },
+
+    "9": {
+      "nombre": "Daniel Condori",
+      "rol": "Fachlehrer Solarenergie"
+    },
+
+    "10": {
+      "nombre": "Ariel Santillán",
+      "rol": "Fachlehrer Mechanik"
+    },
+
+    "11": {
+      "nombre": "Misael Rodríguez",
+      "rol": "Fachlehrer Landwirtschaft"
+    },
+
+    "12": {
+      "nombre": "Walter Maldonado",
+      "rol": "Technischer Hilfslehrer"
+    },
+
+    "13": {
+      "nombre": "Guillermo Torrez",
+      "rol": "Hausmeister"
+    }
+
+
+
+  },
+
+  "inscripciones": {
+    "strong": "Zugang zu unseren Ausbildungsgängen",
+    "titulo": "Anmeldungen",
+    "texto1": "Erfahren Sie alles über die erforderlichen Unterlagen für die Anmeldung an unserer Institution.",
+    "subtitulo": "Anmeldevoraussetzungen",
+    "fechas": "Anmeldetermine",
+    "del": "Für 2026",
+    "strongFechas": "Vom 1. bis zum 31. Juli",
+    "al": "Für 2027: ",
+    "strongFechaFin": "2. bis 30. November",
+    "lugar": "Ort",
+    "ubicacion": "Schule Amntena Nr. 34 - Matienzo S/N - Viertel Las Américas - Fernández.",
+    "botonWhatsapp": "Über WhatsApp anfragen"
+
+  },
+
+
+
+  "productos": {
+    "miel": {
+      "titulo": "100 % Naturhonig",
+      "strong": "Lokale Imkerei",
+      "texto1": "Wir bieten 100 % reinen Honig aus Santiago, gewonnen von Algarrobo-, Chañar- und Quebracho-Bäumen sowie von Wildblumen.",
+      "texto2": "1976 wurde die erste Honiglieferung nach Deutschland exportiert, und über Jahrzehnte hinweg haben wir mehr als 300 Tonnen versandt. Wir sind durch zahlreiche Laboruntersuchungen und Qualitätsprüfungen sowohl in Argentinien als auch in Deutschland bestätigt. Der Honig aus dieser Region ist von guter Qualität – schon die Inkas holten ihn seinerzeit aus dem Chaco und schätzten ihn.",
+      "texto3": "Wir verkaufen Honig direkt an die Bevölkerung in Fernández sowie in Deutschland über Dritte-Welt-Läden und unser Lager in Gundelsheim/Neckar. Für weitere Informationen zu aktuellen Preisen und Liefermöglichkeiten wenden Sie sich bitte telefonisch oder per E-Mail an den deutschen Förderverein (siehe Menü unter „Kontakt“).",
+      "texto4": "Sehen Sie unser Informationsblatt über den Honig des argentinischen Gran Chaco (nur auf Deutsch).",
+      "descarga": "Blatt herunterladen",
+      "WhatsApp": "Hallo, ich hätte gerne Informationen zum Kauf von Honig.",
+      "contactoMiel": {
+        "titulo": "Kontaktinformationen",
+        "direccion": "Adresse",
+        "telefonos": "Telefonnummern"
+
+      }
+
+
+    },
+    "turismo": {
+
+      "strong": "Tourismusangebot",
+      "titulo": "Alternative Reisen",
+      "texto1": "José Majer bot in den Anfängen der Stiftung alternative Reisen durch ganz Nordargentinien an. Der Ausgangspunkt war üblicherweise unser Sitz in Fernández.",
+      "texto2": "Unsere Erfahrungen: „José, der Blitz der Anden“ (Foto) führte viele Reisen zu interessanten Orten aller Art – im Auto, im Pick-up, im Kleinbus und sogar in einem alten Mercedes-Benz-Bus. Als Deutscher, der 1966 nach Argentinien kam, zeigte er seinen Gästen und Landsleuten stets das Land und seine Menschen. Er kannte alle Wege (und Abkürzungen), preiswerte Hotels und Cafés, in denen man köstlichen Kaffee bekam. Er zeigte seinen Gästen die Dörfer, Museen, Kirchen und Weinkeller sowie die Flüsse, Wege und Berge. Abends putzten die Gäste ihre vom Staub bedeckten Brillen. José kannte alle Kunsthandwerker, die in den Tälern der Anden leben. Es gab die Möglichkeit, sehr günstig einzukaufen."
+
+    },
+
+    "energias": {
+      "solar": {
+        "strong": "Solarenergie",
+        "titulo": "Solaranlagen",
+        "texto1": "Dank der Teamarbeit von Lehrer und Schülern des Bereichs Elektrotechnik und alternative Energien wurden von José und deutschen Freiwilligen Photovoltaikanlagen in Nordargentinien installiert.",
+        "texto2": "Solarkocher und Solarofen ermöglichen beide die Einsparung konventioneller Energie, wie zum Beispiel Holz, Gas, Strom usw.",
+        "texto3": "Installation von Solaranlagen zur Stromversorgung: Photovoltaikanlagen, Sonnenkollektoren zur Warmwasserbereitung, parabolische Solarkocher, Solartrockner zum Trocknen von Obst, Gemüse und Kräutern usw.",
+        "texto4": "Karte der Solaranlagen der F.C.C.F. in Nordargentinien (die Standorte der verschiedenen Solaranlagen sind mit Lichtern in unterschiedlichen Farben markiert)",
+        "consultar": "Online-Beratung zu Solarenergie"
+
+
+
+
+      },
+
+      "biogas": {
+        "strong": "Saubere Energie",
+        "titulo": "Biogas",
+        "texto1": "1992 baute die F.C.C.F. auf ihrem Gelände eine Biogasanlage, die zum Kochen im Schülerwohnheim genutzt wurde. Das System funktionierte durch die Zufuhr von Tiermist (organischem Material), vermischt mit Wasser, in die Biogaskammer; das Ergebnis des Vergärungsprozesses war die Gewinnung von Gas sowie organischem Material zur Bodendüngung. Das Gas wurde zur Qualitätsverbesserung gefiltert, bevor es in die Küche gelangte.",
+        "texto2": "Gaskuppel und Biogasbrenner in der Küche:"
+
+
+      }
+    }
+  },
+
+
+  "contacto": {
+    "nombreFundacion": "Stiftung Ausbildungszentrum Fernández",
+    "direccion": "Adresse",
+    "calle": "Matienzo s/n",
+    "codigopostal": "PLZ 4322 Fernández",
+    "provincia": "Santiago del Estero - Argentinien",
+    "ciudad": "Fernández, Santiago del Estero",
+    "telefono": "Telefon",
+    "cuenta": "Bankkonto",
+    "banco": "Bank",
+    "bna": "Banco Nación Argentina",
+    "numero": "Kontonummer",
+    "sucursal": "Filiale",
+    "titular": "Kontoinhaber",
+    "correo": "E-Mail",
+    "asociaciones": "Förderverein",
+    "donaciones": "Spendenkonto",
+    "aclaracion": "Spenden an den Verein sind steuerlich absetzbar. Die Einrichtung ist berechtigt, Spendenquittungen auszustellen."
+
+  }
+
 }

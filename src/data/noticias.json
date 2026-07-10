@@ -1,11 +1,15 @@
+
+
 [
+  
+
   {
     "id": 1,
     "titulo": "Inscripciones abiertas para cursos 2026",
     "fecha": "05 de Junio de 2026",
-    "imagen": "/images/noticia1.jpg",
+    "imagen": "/post/mecanica3.jpeg",
     "descripcion": "Ya se encuentran abiertas las inscripciones para los cursos y talleres de la Fundación.",
-    "link": "https://www.facebook.com/FCCF.ARGENTINA/"
+    "link": ""
   },
   {
     "id": 2,

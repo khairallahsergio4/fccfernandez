@@ -218,8 +218,8 @@ const productos = [
 
           {/* Links */}
 
-          <Link to="/who" className="text-md font-semibold text-white hover:text-amber-100 transition">{t("menu.contacto")}</Link>
-          <Link to="/who" className="text-md font-semibold text-white hover:text-amber-100 transition">{t("menu.donar")}</Link>
+          <Link to="/contact" className="text-md font-semibold text-white hover:text-amber-100 transition">{t("menu.contacto")}</Link>
+          <Link to="/donate" className="text-md font-semibold text-white hover:text-amber-100 transition">{t("menu.donar")}</Link>
          
         </PopoverGroup>
 

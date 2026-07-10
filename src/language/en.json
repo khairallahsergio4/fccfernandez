@@ -1,66 +1,490 @@
 {
-  "web": {
-    "nombreFundacion": "Fernández Training Center Foundation"
+
+  "web":{
+      "nombreFundacion":"Fernández Training Centre Foundation"
+
   },
   "welcome": {
-    "title": "Welcome to the Fernández Training Center Foundation",
+    "title": "Welcome to the Fernández Training Centre Foundation",
     "p": "Select your language to continue",
-    "lema": "We educate people, we transform communities"
+    "lema":"We shape people, we transform communities"
   },
   "menu": {
-    "lafundacion": {
-      "item1": "The Foundation",
-      "item2": "Who We Are",
-      "item3": "Board of Directors",
-      "item4": "History",
-      "item5": "German Volunteers",
-      "item6": "Alternative Energies",
-      "item7": "Kindergarten"
+    "lafundacion":{
+      "item1":"The Foundation",
+      "item2":"Who we are",
+      "item3":"Board of Directors",
+      "item4":"History",
+      "item5":"German Volunteers",
+      "item6":"Kindergarten"
     },
-    "escuela": {
-      "item1": "Amntena School No. 34",
-      "item2": "Institutional Information",
-      "item3": "Educational Programs",
-      "item4": "Management and Teaching Staff",
-      "item5": "Admissions"
+
+    "escuela":{
+      "item1":"Amntena School No. 34",
+      "item2":"About the School",
+      "item3":"Educational Programme",
+      "item4":"Management and Teaching Staff",
+      "item5":"Enrolment"
     },
-    "productos": {
-      "item1": "Products and Services",
-      "item2": "Beekeeping",
-      "item3": "Solar Energy",
-      "item4": "Tourism"
+
+     "productos":{
+      "item1":"Products and Services",
+      "item2":"Beekeeping",
+      "item3":"Solar Energy",
+      "item4":"Tourism"
     },
-    "contacto": "Contact",
-    "donar": "Donate"
+    "contacto":"Contact",
+    "donar":"Donate"
+
   },
-  "testimonio": {
-    "titulo": "We educate people, we transform communities",
-    "texto": "The Fernández Training Center Foundation seeks to provide young people in the region with the knowledge and training necessary for their personal and professional development. It has also become a social meeting space between the culture of northern Argentina and German culture, enriching both by offering their members a broader understanding of their respective realities.",
-    "boton": "Learn More",
-    "tarjeta1": {
-      "titulo": "25+ Years",
-      "texto": "Educating young people, promoting educational projects, and strengthening the Fernández community."
+
+  "fundador":{
+    "titulo":"Our History",
+    "nombreFundador":"José Majer, Founder",
+
+    "texto1":"   José Majer was a Catholic priest in Germany who was sent by his bishop for three years to northern Argentina, to the province of Santiago del Estero, where he founded the F.C.C.F., which is still based there today. Even then, he realised that, given the socio-economic needs of the population, his mission could not be limited to pastoral work alone but also had to include training to help overcome poverty.",
+    "texto2":"     A detailed account of the F.C.C.F.'s history and of its founder can be found in Klaus Kornwachs' book \"Polvo y esperanza\" (\"Dust and Hope\"), José Majer − A Life for the Gran Chaco. The 240-page book, written in German, was published in 2017 as volume 8 of the series \"Personality in Contemporary History\" by the Lit-Verlag publishing house in Berlin. The book can be obtained through booksellers, or from the Foundation or the Association of Friends of Northern Argentina, whose contact details can be found in the \"Contact\" section.",
+
+    "boton":"Book Launch",
+    "botonComprar":"Buy the Book"
+
+  },
+
+  "testimonio":{
+
+    "escuelaNombre":"Amntena No. 34 Vocational Training and Skills School",
+    "titulo":"We shape people, we transform communities",
+    "texto":" The Fernández Training Centre Foundation aims to pass on to young people in the region the knowledge and training they need to make their way in life. It has also become a social meeting point between the culture of northern Argentina and German culture, enriching both by giving its members a fuller view of each other's realities. ",
+    "boton":"Find Out More",
+    "tarjeta1":{
+      "titulo":"40+ years",
+      "texto":"Training young people, driving educational projects and strengthening the Fernández community."
     },
-    "tarjeta2": {
-      "titulo": "Community",
-      "texto": "• Education • Culture • Training"
+
+      "tarjeta2":{
+      "titulo":"Community",
+      "texto":"• Education • Culture • Training"
     }
   },
-  "infomiel": {
-    "tab1": "Local Production",
-    "titulo1": "Natural Honey from the",
-    "titulo2": "Fernández Training Center Foundation",
-    "texto": "We offer 100% pure honey from Santiago del Estero, produced from carob trees, chañar, quebracho, and wildflowers. Our honey is backed by numerous laboratory studies and quality tests conducted in both Argentina and Germany.",
-    "boton": "Buy Now",
-    "masInfo": "More Information",
-    "tab2": "100% Natural",
-    "tab3": "Local Production",
-    "tab4": "Support the Foundation",
-    "imagenTitulo": "Pure Artisan Honey",
-    "imagenSubtitulo": "Produced under high quality standards."
+
+  "infomiel":{
+    "tab1":"Local Production",
+    "titulo1":"Natural Honey from the",
+    "titulo2":"Fernández Training Centre Foundation",
+    "texto":"We offer 100% pure honey from Santiago del Estero, sourced from carob, chañar and quebracho trees as well as wildflowers. It is backed by numerous laboratory studies and quality tests carried out in both Argentina and Germany.",
+    "boton":"Buy",
+    "masInfo":"More Information",
+    "tab2":"100% Natural",
+    "tab3":"Local Production",
+    "tab4":"Support the Foundation",
+    "imagenTitulo":"Pure Artisan Honey",
+    "imagenSubtitulo":"Produced to high quality standards.",
+    "comprar":{
+      "titulo":"Where would you like to buy from?",
+      "subtitulo":"Select your country to continue.",
+      "argentina":"Buy in Argentina",
+      "alemania":"Buy in Germany"
+    }
+
   },
-  "footer": {
-    "redes": "Training and commitment to the community, also on social media",
-    "desarrollado": "Developed by SkSoftware"
+
+
+  "noticias":{
+
+    "titulo":"News and Updates",
+    "subtitulo":"What's happening at the Foundation",
+    "texto":"Find out about our activities, training courses, events and community projects",
+    "verMas":"View Post"
+
+  },
+
+  "footer":{
+    "redes":"Training and commitment to the community, on social media too",
+    "desarrollado":"Developed by SkSoftware",
+    "mapa":"How to Get There"
+  },
+
+
+  "quienesSomos":{
+      "strong":"Our Institution",
+      "titulo":"Who We Are",
+      "texto1":"We are an organisation committed to social, educational and community development, working day by day to create opportunities that improve people's quality of life.",
+      "texto2":"Through our programmes and projects, we promote inclusion, training and the strengthening of skills among children, young people and adults, fostering values of solidarity, participation and commitment to the community. Through our \"Amntena\" School, we aim to train young people — most of whom come from rural areas and low-income families — in trades with strong employment prospects, such as Agriculture and Organic Market Gardening, Carpentry, Tanning and Leatherwork, Beekeeping, Motor Vehicle Mechanics and Electrics with Alternative Energy, so that after three years of training they can find work in the area.",
+      "texto3":"We believe in working together to build a fairer future, where everyone can fully develop their potential."
+
+  },
+
+    "comienzos":{
+      "strong":"Our Origins",
+      "titulo":"The Beginnings",
+      "texto1":"José Majer was a Catholic priest in Germany who was sent by his bishop for three years to northern Argentina, to the province of Santiago del Estero, where he founded the F.C.C.F., which is still based there today. Even then, he realised that, given the socio-economic needs of the population, his mission could not be limited to pastoral work alone but also had to include training to help overcome poverty. It began in the parish of Brea Pozo, where he served as parish priest from 1968, with projects to collect rainwater in cisterns and to make bricks. To this end, an artisan and agricultural cooperative was set up and its products were exported to Germany; an agricultural machinery service was organised; a training carpentry workshop was built for young people; football and basketball pitches were made; and sewing, cooking and welding courses were introduced with teachers from the Vocational School of Santiago del Estero (under the \"FPA\" – Accelerated Vocational Training – system).",
+
+      "texto2":"The Argentine bishop did not share his pastoral vision regarding the need for social work, so José decided to end his contract with the diocese. He had to carry on his social work without the support of the Catholic Church, and so began working for an agricultural service for smallholders (ISAN), sponsored and supported by the Catholic organisation Misereor, which broadened his understanding of people's circumstances in different parts of northern Argentina.",
+
+      "texto3":"At that time, social work was viewed with suspicion by the military governments that seized power in Argentina in March 1976. Amid this climate of repression, José Majer was detained twice. After his release, he left his advisory role at Misereor to avoid trouble with the military and, in 1976, decided to settle in the town of Fernández, not far from his former parish.",
+
+
+      "texto4":"To cover the costs of his private life, José Majer bought 100 beehives at the time, as Santiago honey was known to be of very good quality — the Incas had known and valued it too.",
+
+
+      "texto5":"Social work began, and vocational training developed alongside it. It was in this way that his dream started to take shape, by 1978: he wanted to create a training centre for young people from low-income families, giving them a tool for life — \"Knowledge and Training\" — since it was becoming increasingly difficult for their parents to afford an education.",
+
+      "texto6":"The first building constructed was set up as a tannery, to produce leather for craftwork. In this building, as in Brea Pozo, courses were also run by the state industrial school of Santiago del Estero for adult vocational training (under the \"FPA\" system).",
+
+      "texto7":"The Fernández Training Centre Foundation, a not-for-profit organisation, was formally established on 30 January 1984 by José Majer and German friends, some time after the end of the military dictatorship.",
+
+
+      "texto8":"It was also on this site that the first experiments in unconventional architecture began, using mud as the primary material to build \"igloo-type\" dwellings, intended to house pupils during term time, as many came from other parts of the province.",
+
+      "texto9":"As time went on, the Foundation's grounds were expanded thanks to the help of German friends, and a neighbouring plot of several additional hectares was purchased.",
+
+      "texto10":"One of the round houses was, for a time, used as a kindergarten so that a nursery teacher from Tübingen (Germany) could volunteer there for a year. Another house, formerly used by a staff member, was also used as accommodation for pupils in Hostel C, allowing more pupils to be taken in.",
+
+      "texto11":"In 1991/1992, construction began on the F.C.C.F.'s official kindergarten, built with eight corners in rammed-earth architecture. The plans for the building were drawn up by two trainees from the \"Architecture for Development Abroad\" programme at the University of Architecture in Hildesheim (Germany).",
+
+
+      "texto12":"The biogas plant was also built around this time, on the initiative of a young \"zivi\" volunteer, with the help of the German Christian Democratic Youth and the Catholic parish of Herrenberg (Germany).",
+
+
+      "texto13":"In 2009, the Foundation celebrated its 25th anniversary."
+
+
+
+  },
+
+
+      "historia":{
+      "strong":"Our History",
+      "titulo":"History",
+      "texto1":"A detailed account of the F.C.C.F.'s history and of its founder can be found in Klaus Kornwachs' book \"Polvo y esperanza, José Majer − Una vida para el Gran Chaco\" (\"Dust and Hope, José Majer – A Life for the Gran Chaco\"). The 240-page book, written in German, was published in 2017 as volume 8 of the series \"Personality in Contemporary History\" by the Lit-Verlag publishing house in Berlin. The book can be obtained through booksellers, or from the Foundation or the Association of Friends of Northern Argentina (see under \"Contact\"). If you order the book from us, the proceeds go towards supporting the Foundation's work — which is why we suggest choosing this option: ISBN 978-3-643-13766-1 hardback edition; ISBN 978-3-643-33766-5 PDF edition",
+
+      "texto2":"During the book launch and reading in September 2017, an electronic presentation with images from the life of our founder, José Majer, was given. This presentation (in German) can be downloaded as a PDF (120 MB).",
+
+      "texto3":"Marisa Sperrfechter, a pupil from Mosbach (Germany) and José Majer's great-grand-niece, wrote a dissertation on José Majer, \"A Christian without a Church?\" (in German), as part of a school course on \"God and the World\". A 32-page extract is available below. To read the full 77-page dissertation, please contact the author at marisa.sperrfechter1@web.de",
+
+
+      "boton1":"Download Presentation",
+
+
+      "boton2":"Download Dissertation"
+
+
+
+
+  },
+
+
+     "voluntarios":{
+      "strong":"Volunteering at the Foundation",
+      "titulo":"German Volunteers",
+      "texto1":"The first volunteers and 'zivis' began arriving at the Foundation in 1984 to carry out community service. There was a four-year gap between 1994 and 1998, after which more and more volunteers kept coming each year. Young people and retirees from Germany helped with a range of tasks in and around the 'fundi' (as some affectionately called it). Accommodation and meals were always provided for volunteers, with various buildings serving that purpose over the years.",
+
+      "texto2":"They arrived full of hopes, expectations and all sorts of motivations, keen to leave their mark, however small, on the 'fundi'. Many came back years later to see the progress and changes, to carry out new projects or simply to visit old friends.",
+
+      "texto3":"They covered a wide range of subjects and skills, including classes in music, drawing, German, English, carpentry, electrics, welding, blacksmithing, mechanics, botany, agriculture, IT, catering, baking, beekeeping, permaculture and literature, among many others.",
+
+      "texto4":"They helped build a great deal of the infrastructure at the 'fundi' — one could say almost all of it. They looked after the children at the Foundation's 'Huahuitas' kindergarten and helped in the children's dining hall. They helped care for the animals at the Foundation, and harvested honey that was later sent to Germany.",
+      "texto5":"They took part in countless trips to install solar equipment across the whole of north-western Argentina (more than 300 since 1994), on memorable journeys with José Majer, full of adventures and mishaps they will surely never forget. They made friends with pupils at the school and people from Fernández, playing football, sharing meals, music and parties, playing table tennis, or simply going for walks into the centre of Fernández.",
+      "texto6":"The volunteers who passed through were, without doubt, the painters who sketched much of the 'Fundi's' history — pens that could have written some of the finest best-selling novels.",
+      "texto7":"An enormous THANK YOU will always remain etched into the Foundation's history for the tremendous support received from them and from the wider German people.",
+      "texto8":"On the initiative of German volunteers Martina Benz and Sofia Elena Rötzer, together with pupils, the dining hall was refurbished in 2009. For this project, Sofia Elena organised a special fundraising event in Germany from Argentina to raise funds (€350). Many thanks to the pupils of the Marienau School!",
+      
+      "texto9":"On 21 September 2010, Students' Day, the volunteers organised a football tournament for the pupils.",
+      "texto10":"In 2011, the young volunteers sold vegetables from the school's organic garden in Fernández. The money raised was used to buy new tools and seeds for the Agriculture department."
+     
+
+  },
+
+  "jardin":{
+    "strong":"Early Years Education",
+    "titulo":"Kindergarten and Children's Dining Hall",
+    "texto1":"From 1988, we set up a kindergarten at our Foundation. Thanks to the support of German volunteers, the building work was completed. Children mainly came from the \"Las Américas\" neighbourhood, home to families with limited economic and social means; up to 2013, the area had an average population of around 1,350 people across roughly 250 homes, with a high birth rate.",
+    "texto2":"In 1992, the Fernández Municipal Council officially recognised the \"Huahuitas\" kindergarten, a status it held until 2009. The council provided nursery teachers and two cooks for the 4–5 year-old classrooms and issued the corresponding certificates of study to the children.",
+    "texto3":"Food, teaching materials, toys, etc. were funded by the F.C.C.F. Unfortunately, the agreement with the council was not renewed, and the municipal kindergarten did not continue.",
+    "texto4":"From 2010 to 2015, a children's dining hall was set up, with space for children to play and access a daily meal, usually in the evening (6 pm). The Foundation's dream is to reopen our former kindergarten for children aged 4 and 5."
+  },
+
+
+  "escuela":{
+
+    "institucional":{
+
+      "nombreEscuela":"Amntena No. 34 Vocational Training and Skills School",
+      "strong":"Training School",
+      "texto1":"The legal owner of \"Amntena No. 34\" School is the Fernández Training Centre Foundation, which provides free training in various specialisms to young people and adults over the age of 16 from Fernández and the surrounding area. Since 1992, the school has been officially recognised by the province and receives teachers' salaries from the SPEP (Provincial Private Education Service). Materials for the school, the upkeep of student accommodation and pupils' meals are all funded by the F.C.C.F.",
+      "texto2":"We offer training in several fields: Agriculture, Carpentry, Electrics and Solar Energy, and Motor Vehicle Mechanics, complemented by general studies as a common subject area across all courses.",
+      "texto3":"The school takes in day pupils of both sexes. Until 2019, we welcomed pupils from the northern Argentine provinces of Chaco, Formosa, Salta, Jujuy and Tucumán, as well as from other departments of Santiago del Estero. They were housed during their studies at the F.C.C.F.'s facilities, with all the comforts they needed, including bedrooms, kitchens, a dining hall, bathrooms and recreational areas.",
+      "texto4":"Courses last three years. In the first year, pupils have the chance to try out all the different fields on a rotating basis, before specialising in the 2nd and 3rd years and obtaining their qualification. Thanks to the S.P.E.P.'s efforts, in 2013 the head of that institution announced that all qualifications it awards are recognised throughout Argentina."
+
+
+
+    }
+  },
+
+  "ofertaEducativa":{
+
+    "1":{
+          "rama":"Agriculture",
+          "nombre": "Market Gardener",
+          "requisito": "Aged 16 or over, having completed or currently completing secondary school",
+          "duracion": "9 months"
+    },
+
+    "2":{
+             "nombre": "Market Gardening Assistant",
+            "rama":"Agriculture",
+            "requisito": "7th grade certificate (completed primary school)",
+            "duracion": "4 months"
+    },
+
+    "3":{
+          
+       "nombre": "Internal Combustion Engine Mechanic",
+    "rama":"Mechanics",
+    "requisito": "Aged 16 or over, having completed or currently completing secondary school",
+    "duracion": "9 months"
+
+    },
+
+    "4":{
+      
+       "nombre": "Petrol Engine Mechanic's Assistant",
+    "rama":"Mechanics",
+    "requisito": "7th grade certificate (completed primary school)",
+    "duracion": "4 months"
+
+    },
+
+    "5":{
+       
+        "nombre": "Domestic Low-Voltage Systems Installer (Household Electrics)",
+    "rama":"Electrics",
+    "requisito": "Aged 16 or over, having completed or currently completing secondary school",
+    "duracion": "9 months"
+
+    },
+
+    "6":{
+
+       "nombre": "Domestic Electrical Fitter",
+    "rama":"Electrics",
+    "requisito": "7th grade certificate (completed primary school)",
+    "duracion": "4 months"
+      
+
+
+    },
+
+    "7":{
+       "nombre": "Electronics Assistant",
+    "rama":"Electronics",
+    "requisito": "Aged 16 or over, having completed or currently completing secondary school",
+    "duracion": "9 months"
+
+
+    },
+
+    "8":{
+      "nombre": "Renewable Energy Electrical Systems Installer",
+      "rama":"Renewable Energy",
+    "requisito": "Aged 16 or over, having completed or currently completing secondary school",
+    "duracion": "9 months"
+
+
+    },
+
+    "9":{
+        
+          "nombre": "Sawmill Main Machinery Operator",
+    "rama":"Carpentry",
+    "requisito": "7th grade certificate (completed primary school)",
+    "duracion": "4 months"
+
+    },
+
+    "titulo":"Training Areas",
+    "subtitulo":"Discover the different vocational training courses offered by our institution.",
+    "requisito":"Entry Requirements",
+    "masInfo":"More Information",
+    "profesor":"Teacher",
+    "carga":"Timetable",
+    "duracion":"Duration",
+    "promocion":"Good morning, I'd like more information about training in"
+
+
+
+
+  },
+
+
+  "profesores":{
+
+    "titulo":"Management and Teaching Staff",
+    "texto1":"Amntena No. 34 School has an outstanding team of teaching and non-teaching staff, with strong pedagogical training and a real sense of commitment to the institution's aims. We focus on providing quality education while never losing sight of the importance of kindness and humanity towards the pupils who make up our beloved school community.",
+
+    "1":{
+      "nombre":"Luis Díaz",
+      "rol":"Head Teacher"
+    },
+
+    
+    "2":{
+      "nombre":"Bettina Majer",
+      "rol":"Secretary"
+    },
+
+    "3":{
+      "nombre":"Cristina Majer",
+      "rol":"Pupil Supervisor"
+    },
+
+    "4":{
+      "nombre":"Irineo Soria",
+      "rol":"General Studies Teacher"
+    },
+
+    "5":{
+      "nombre":"Karina Perez",
+      "rol":"IT Instructor"
+    },
+
+    "6":{
+      "nombre":"Franklin Russo",
+      "rol":"Carpentry Instructor"
+    },
+
+    "7":{
+      "nombre":"Dario Díaz",
+      "rol":"Household Electrics Instructor"
+    },
+
+    "8":{
+      "nombre":"Diego Gutierrez",
+      "rol":"Electronics Instructor"
+    },
+
+    "9":{
+      "nombre":"Daniel Condori",
+      "rol":"Solar Energy Instructor"
+    },
+
+    "10":{
+      "nombre":"Ariel Santillán",
+      "rol":"Mechanics Instructor"
+    },
+
+    "11":{
+      "nombre":"Misael Rodríguez",
+      "rol":"Agriculture Instructor"
+    },
+
+    "12":{
+      "nombre":"Walter Maldonado",
+      "rol":"Technical Assistant"
+    },
+
+    "13":{
+      "nombre":"Guillermo Torrez",
+      "rol":"Caretaker"
+    }
+
+
+
+  },
+  
+  "inscripciones":{
+    "strong":"Access our training courses",
+    "titulo":"Enrolment",
+    "texto1":" Find out about all the documentation you'll need to enrol at our institution.",
+    "subtitulo":"Enrolment Requirements",
+    "fechas":"Enrolment Dates",
+    "del":"For 2026",
+    "strongFechas":"1 to 31 July",
+    "al":"For 2027: ",
+    "strongFechaFin":"2 to 30 November",
+    "lugar":"Location",
+    "ubicacion":"Amntena No. 34 School - Matienzo S/N - Las Américas Neighbourhood - Fernández.",
+    "botonWhatsapp":"Ask via WhatsApp"
+
+  },
+
+
+
+  "productos":{
+    "miel":{
+      "titulo":"100% Natural Honey",
+      "strong":"Local Beekeeping",
+      "texto1":"We offer 100% pure honey from Santiago del Estero, sourced from carob, chañar and quebracho trees as well as wildflowers.",
+      "texto2":"In 1976, the first shipment of honey was exported to Germany, and over the following decades we sent more than 300 tonnes. It is backed by numerous laboratory studies and quality tests carried out in both Argentina and Germany. The honey from this region is renowned for its quality — even the Incas used to bring it from the Chaco and consume it because of its good quality.",
+      "texto3":"We sell honey directly to the public in Fernández, and also in Germany through fair trade shops and our warehouse in Gundelsheim/Neckar. For up-to-date pricing and delivery options, please get in touch with the German support association by phone or email (see the \"Contact\" menu).",
+      "texto4":"See our information sheet on honey from the Argentine Gran Chaco (in German only).",
+      "descarga":"Download Sheet",
+      "WhatsApp":"Hello, I'd like some information about buying honey.",
+      "contactoMiel":{
+        "titulo":"Contact Information",
+        "direccion":"Address",
+        "telefonos":"Phone Numbers"
+
+      } 
+
+
+    },
+          "turismo":{
+
+        "strong":"Tourism Service",
+        "titulo":"Alternative Tourism Trips",
+        "texto1":"In the Foundation's early days, José Majer used to organise alternative tourism trips across the whole of northern Argentina. These usually set off from our base in Fernández.",
+        "texto2":"Our experiences: \"José, the Lightning of the Andes\" (photo) guided many trips to all sorts of interesting places, by car, pick-up truck, minibus and even an old Mercedes-Benz coach. As a German who arrived in Argentina in 1966, he always loved showing visitors and fellow countrymen the country and its people. He knew every road (and every shortcut), every cheap hotel and every café serving the most delicious coffee. He showed his guests the towns, museums, churches and wineries, as well as the rivers, roads and mountains. In the evenings, guests would clean the dust off their glasses. José knew all the craftspeople living in the Andean valleys, where there were great bargains to be had. "
+
+      },
+
+    "energias":{
+      "solar":{
+        "strong":"Solar Energy",
+        "titulo":"Solar Installations",
+        "texto1":"Thanks to the teamwork of the electrics and alternative energy teacher and pupils, José and German volunteers installed photovoltaic systems across northern Argentina.",
+        "texto2":"Both the solar cooker and solar oven help save on conventional energy sources such as wood, gas, electricity, and so on.",
+        "texto3":"Solar equipment installations to provide electricity: photovoltaic systems, solar water-heating panels, parabolic solar cookers, solar dryers for dehydrating fruit, vegetables and herbs, and more. ",
+        "texto4":"Map of the F.C.C.F.'s solar installations across northern Argentina (the locations of the different solar systems are marked with different coloured lights)",
+        "consultar":"Online Advice on Solar Energy"
+
+
+
+
+      },
+
+      "biogas":{
+        "strong":"Clean Energy",
+        "titulo":"Biogas",
+        "texto1":"In 1992, the F.C.C.F. built a biogas plant on its grounds, used for cooking in the pupils' dining hall. The system worked by feeding animal manure (organic matter) mixed with water into the biogas chamber; the biodigestion process then produced gas as well as organic matter to fertilise the land. The gas passed through a filter to improve its quality before reaching the kitchen.",
+        "texto2":"Gas dome and biogas burners in the kitchen:"
+        
+
+      }
+    }
+  },
+
+
+  "contacto":{
+    "nombreFundacion":"Fernández Training Centre Foundation",
+    "direccion":"Address",
+    "calle":"Matienzo s/n",
+    "codigopostal":"Postcode 4322 Fernández",
+    "provincia":"Santiago del Estero - Argentina",
+    "ciudad":"Fernández, Santiago del Estero",
+    "telefono":"Phone",
+    "cuenta":"Bank Account",
+    "banco":"Bank",
+    "bna":"Banco Nación Argentina",
+    "numero":"Account Number",
+    "sucursal":"Branch",
+    "titular":"Account Holder",
+    "correo":"Email",
+    "asociaciones":"Support Association",
+    "donaciones":"Donations Account",
+    "aclaracion":"Donations made to the association may be tax-deductible. The organisation is authorised to issue donation receipts."
+
   }
+
 }
+

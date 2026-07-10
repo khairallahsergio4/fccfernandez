@@ -76,7 +76,7 @@ export default function Registration () {
           </div>
 
           {/* Fecha y Lugar */}
-          <div className="space-y-6">
+          <div className="space-y-6 w-96">
 
             <div className="rounded-2xl bg-white p-6 shadow-md border border-slate-200">
               <div className="flex items-center gap-3 mb-3">
@@ -87,9 +87,11 @@ export default function Registration () {
               </div>
 
               <p className="text-slate-600">
-                {t("inscripciones.del")}<strong>{t("inscripciones.strongFechas")}</strong>{t("inscripciones.al")}{" "}
-                <strong>           {t("inscripciones.strongFechaFin")}
-</strong>.
+                <strong>{t("inscripciones.del")}: </strong>{t("inscripciones.strongFechas")}
+              </p>
+              <p className="text-slate-600">
+                  <strong>{t("inscripciones.al")}: </strong>
+                {t("inscripciones.strongFechaFin")}
               </p>
             </div>
 

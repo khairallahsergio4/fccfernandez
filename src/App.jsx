@@ -19,6 +19,8 @@ import Honey from './Components/Products/Honey.jsx'
 import Energies from './Components/Products/Energies.jsx'
 import ScrollToTop from './Components/ScrollToTop.jsx'
 import Tourism from './Components/Products/Tourism.jsx'
+import ContactSection from './Components/Contact/ContactSection.jsx'
+import DonateSection from './Components/Donate/DonateSection.jsx'
 
 
 function App() {
@@ -47,6 +49,11 @@ function App() {
       <Route path="/honey" element={<Honey/>} />
       <Route path="/energies" element={<Energies/>} />
       <Route path="/tourism" element={<Tourism/> } />
+
+      <Route path="/contact" element={<ContactSection/>} />
+      <Route path="/donate" element={<DonateSection/>} />
+
+
 
 
 

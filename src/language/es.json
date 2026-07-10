@@ -398,7 +398,7 @@
     "titulo":"Inscripciones",
     "texto1":" Conocé toda la documentación necesaria para realizar la inscripción en nuestra institución.",
     "subtitulo":"Requisitos de Inscripción",
-    "fechas":"Fechas",
+    "fechas":"Fechas de Inscripción",
     "del":"Para 2026",
     "strongFechas":"De 1 de Julio al 31 de Julio",
     "al":"Para 2027: ",
@@ -463,7 +463,32 @@
 
       }
     }
+  },
+
+
+  "contacto":{
+    "nombreFundacion":"Fundación Centro de Capacitación Fernández",
+    "direccion":"Dirección",
+    "calle":"Matienzo s/n",
+    "codigopostal":"C.P. 4322 Fernández",
+    "provincia":"Santiago del Estero - Argentina",
+    "ciudad":"Fernández, Santiago del Estero",
+    "telefono":"Teléfono",
+    "cuenta":"Cuenta bancaria",
+    "banco":"Banco",
+    "bna":"Banco Nación Argentina",
+    "numero":"Número",
+    "sucursal":"Sucursal",
+    "titular":"Titular",
+    "correo":"Correo electrónico",
+    "asociaciones":"Asociación de apoyo",
+    "donaciones":"Cuenta para donaciones",
+    "aclaracion":"Las donaciones realizadas a la asociación pueden deducirse de impuestos. La entidad está autorizada para emitir recibos de donación."
+
   }
+
+
+
 
 
 
