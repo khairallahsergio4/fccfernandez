@@ -5,6 +5,8 @@ import comedor1 from "../../assets/images/comedor1.jpg";
 import comedor2 from "../../assets/images/comedor2.jpg";
 import campeonato1 from "../../assets/images/campeonato1.jpg";
 import campeonato2 from "../../assets/images/campeonato2.jpg";
+import ulrich from "../../assets/images/ulrich.jpeg";
+
 
 import {useLang} from "./../../hooks/useLang";
 
@@ -58,7 +60,7 @@ export default function Volunteers () {
             />
 
                            <img
-              src={comedor2}
+              src={ulrich}
               alt="voluntarios"
               className="w-full h-full object-cover rounded-2xl shadow-xl"
             />

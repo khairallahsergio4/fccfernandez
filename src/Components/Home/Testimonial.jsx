@@ -20,9 +20,9 @@ export default function Testimonial() {
   ];
 
   return (
-    <section className="relative overflow-hidden bg-gradient-to-br from-slate-50 via-white to-indigo-50">
+    <section className="relative overflow-hidden bg-gradient-to-br from-slate-50 via-white to-indigo-50 ">
       {/* Fondos decorativos */}
-      <div className="absolute top-0 left-0 h-72 w-72 rounded-full bg-indigo-200/30 blur-3xl" />
+      <div className="absolute top-0 left-0 h-72 w-72 rounded-full bg-indigo-200/30 blur-3xl " />
       <div className="absolute bottom-0 right-0 h-96 w-96 rounded-full bg-purple-200/30 blur-3xl" />
       
       <div className="relative mx-auto max-w-7xl px-6 pt-20">
@@ -32,7 +32,7 @@ export default function Testimonial() {
         </h1>
       </div>
    
-      <div className="relative mx-auto max-w-7xl px-8 py-8 lg:px-10 lg:py-4">
+      <div className="relative mx-auto max-w-7xl px-6 py-8 lg:px-10 lg:py-4">
         <div className="grid lg:grid-cols-2 gap-14 items-center">
           {/* Texto */}
           <div>
@@ -45,7 +45,7 @@ export default function Testimonial() {
               <span className="text-indigo-600 font-serif"> ”</span>
             </h2>
 
-            <p className="mt-8 text-lg text-gray-600 leading-relaxed text-justify">
+            <p className="mt-8 text-lg text-gray-600 leading-relaxed text-justify ">
               {t("testimonio.texto")}
             </p>
 

@@ -9,7 +9,7 @@ export const useLang = () => {
 const cambiar = (lang) => {
     i18n.changeLanguage(lang);
     localStorage.setItem("lang", lang);
-    navigate("/home");
+    
   }
 
   return { t, i18n , cambiar};

@@ -29,6 +29,7 @@ const RedesButton = () => {
       enlace: "https://facebook.com/TU_PAGINA",
       nombre: "Facebook",
     },
+
     {
       icono: <FaInstagram size={22} />,
       color:

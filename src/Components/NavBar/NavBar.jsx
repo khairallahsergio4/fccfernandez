@@ -11,6 +11,7 @@ import {
   PopoverButton,
   PopoverGroup,
   PopoverPanel,
+  
 } from '@headlessui/react'
 
 import {
@@ -34,7 +35,9 @@ import {
   UserPlusIcon,
   FilmIcon,
   BuildingOffice2Icon,
-  SunIcon
+  SunIcon,
+  
+
 } from '@heroicons/react/24/outline'
 
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
@@ -225,6 +228,9 @@ const productos = [
 
         {/* Idioma */}
                 <div className="hidden lg:flex items-center rounded-full bg-white/10 p-1 backdrop-blur-sm">
+                <div className='px-2'><GlobeAltIcon   aria-hidden="true"
+                className="size-6 text-green-100"/></div>
+                
   <button
     onClick={() => cambiar('es')}
     className={`rounded-full px-2 py-1 text-sm font-medium transition ${
@@ -361,6 +367,8 @@ const productos = [
            
 
               <div className="mt-6 flex items-center justify-center gap-2 rounded-xl bg-white/5 p-2">
+              <div className='px-2'><GlobeAltIcon   aria-hidden="true"
+                className="size-6 text-green-100"/></div>
   <button
     onClick={() => cambiar('es')}
     className={`rounded-lg px-3 py-2 text-sm font-medium transition ${

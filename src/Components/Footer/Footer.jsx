@@ -48,24 +48,7 @@ export default function Footer() {
               {t("footer.redes")}
             </p>
 
-            {/* Redes */}
-            <div className="flex gap-5 mt-8">
-              <a href="#" className="hover:text-white transition">
-                <FaFacebook className="text-xl" />
-              </a>
 
-              <a href="#" className="hover:text-white transition">
-                <FaInstagram className="text-xl" />
-              </a>
-
-              <a href="#" className="hover:text-white transition">
-                <FaTiktok className="text-xl" />
-              </a>
-
-              <a href="#" className="hover:text-white transition">
-                <FaYoutube className="text-xl" />
-              </a>
-            </div>
           </div>
 
           {/* Fundación */}
@@ -111,6 +94,25 @@ export default function Footer() {
                 </li>
               ))}
             </ul>
+
+               {/* Redes */}
+            <div className="flex gap-5 mt-8">
+              <a href="#" className="hover:text-white transition">
+                <FaFacebook className="text-xl" />
+              </a>
+
+              <a href="#" className="hover:text-white transition">
+                <FaInstagram className="text-xl" />
+              </a>
+
+              <a href="#" className="hover:text-white transition">
+                <FaTiktok className="text-xl" />
+              </a>
+
+              <a href="#" className="hover:text-white transition">
+                <FaYoutube className="text-xl" />
+              </a>
+            </div>
           </div>
 
           {/* Productos */}

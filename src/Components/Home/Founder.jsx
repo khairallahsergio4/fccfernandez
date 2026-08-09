@@ -67,7 +67,7 @@ const Founder = () => {
               {t("fundador.texto2")}
             </p>
 
-            <div className="mt-8 flex justify-center lg:justify-start gap-4">
+            <div className="mt-6 flex flex-col lg:flex-row items-center lg:justify-start gap-2">
               <a
                 href="/docs/presentaciones.pdf"
                 download
@@ -79,8 +79,9 @@ const Founder = () => {
                   hover:bg-blue-700
                   text-white
                   font-medium
-                  px-7
-                  py-3
+                  px-4
+                  py-4
+                  w-54
                   rounded-lg
                   shadow-md
                   hover:shadow-xl
@@ -105,8 +106,10 @@ const Founder = () => {
                   hover:bg-red-700
                   text-white
                   font-medium
-                  px-7
-                  py-3
+                  px-4
+                  py-4
+                  w-54
+                  justify-center
                   rounded-lg
                   shadow-md
                   hover:shadow-xl
