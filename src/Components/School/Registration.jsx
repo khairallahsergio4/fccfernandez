@@ -11,16 +11,18 @@ import {
 import { FaWhatsapp } from "react-icons/fa6";
 
 
-const requisitos = [
-  "Fotocopia del DNI del alumno/a (1era y 2da hoja)",
-  "Fotocopia del acta de nacimiento",
-  "En el caso de menor de edad tiene que concurrir el tutor.",
-  "Certificado de finalización de estudios primarios (solo en el caso de las titulaciones de 4 meses).",
-  "Titulo de nivel secundario, constancia de finalizacion o certificado de alumno regular si estas cursando aún el secundario (para las titulaciones de 8 meses).",
-];
+
 export default function Registration () {
 
   const {t} = useLang();
+  const requisitos = [
+    t("inscripciones.requisitos.dni"),
+  t("inscripciones.requisitos.nacimiento"),
+  t("inscripciones.requisitos.tutor"),
+  t("inscripciones.requisitos.primaria"),
+  t("inscripciones.requisitos.secundario"),
+ 
+];
   return (
     <section className="py-16 px-6 md:px-24 bg-gray-50">
       <div className="max-w-7xl mx-auto">

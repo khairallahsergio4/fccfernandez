@@ -402,7 +402,14 @@
     "strongFechaFin": "2. bis 30. November",
     "lugar": "Ort",
     "ubicacion": "Schule Amntena Nr. 34 - Matienzo S/N - Viertel Las Américas - Fernández.",
-    "botonWhatsapp": "Über WhatsApp anfragen"
+    "botonWhatsapp": "Über WhatsApp anfragen",
+    "requisitos": {
+  "dni": "Fotokopie des Personalausweises des Schülers/der Schülerin (1. und 2. Seite)",
+  "nacimiento": "Fotokopie der Geburtsurkunde",
+  "tutor": "Bei Minderjährigen muss ein Elternteil oder ein gesetzlicher Vormund anwesend sein.",
+  "primaria": "Bescheinigung über den Abschluss der Grundschule (nur für die 4-monatigen Ausbildungsgänge).",
+  "secundario": "Abschlusszeugnis der Sekundarschule, Bescheinigung über den Schulabschluss oder Schulbescheinigung, wenn Sie noch die Sekundarschule besuchen (für die 8-monatigen Ausbildungsgänge)."
+}
 
   },
 

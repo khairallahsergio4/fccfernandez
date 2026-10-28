@@ -404,7 +404,14 @@
     "strongFechaFin":"2 to 30 November",
     "lugar":"Location",
     "ubicacion":"Amntena No. 34 School - Matienzo S/N - Las Américas Neighbourhood - Fernández.",
-    "botonWhatsapp":"Ask via WhatsApp"
+    "botonWhatsapp":"Ask via WhatsApp",
+    "requisitos": {
+  "dni": "Photocopy of the student's ID (1st and 2nd pages)",
+  "nacimiento": "Photocopy of the birth certificate",
+  "tutor": "In the case of a minor, a parent or legal guardian must attend.",
+  "primaria": "Primary school completion certificate (only for the 4-month programs).",
+  "secundario": "Secondary school diploma, proof of completion, or regular student certificate if you are still attending secondary school (for the 8-month programs)."
+}
 
   },
 

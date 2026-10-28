@@ -405,7 +405,14 @@
     "strongFechaFin":"2 al 30 de Noviembre",
     "lugar":"Lugar",
     "ubicacion":"Escuela Amntena Nº34 - Matienzo S/N - Barrio Las Ámericas -Fernández.",
-    "botonWhatsapp":"Consultar por WhatsApp"
+    "botonWhatsapp":"Consultar por WhatsApp",
+    "requisitos":{
+       "dni": "Fotocopia del DNI del alumno/a (1era y 2da hoja)",
+      "nacimiento": "Fotocopia del acta de nacimiento",
+      "tutor": "En el caso de menor de edad tiene que concurrir el tutor.",
+      "primaria": "Certificado de finalización de estudios primarios (solo en el caso de las titulaciones de 4 meses).",
+      "secundario": "Título de nivel secundario, constancia de finalización o certificado de alumno regular si estás cursando aún el secundario (para las titulaciones de 8 meses)."
+    }
 
   },
 
