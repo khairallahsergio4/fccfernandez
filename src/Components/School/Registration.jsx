@@ -17,6 +17,7 @@ export default function Registration () {
   const {t} = useLang();
   const requisitos = [
     t("inscripciones.requisitos.dni"),
+    t("inscripciones.requisitos.CUIL"),
   t("inscripciones.requisitos.nacimiento"),
   t("inscripciones.requisitos.tutor"),
   t("inscripciones.requisitos.primaria"),

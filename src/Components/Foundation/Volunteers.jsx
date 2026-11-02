@@ -1,8 +1,7 @@
 import martina from "../../assets/images/martina.jpg";
 import venta1 from "../../assets/images/venta1.jpg";
 import venta2 from "../../assets/images/venta2.jpg";
-import comedor1 from "../../assets/images/comedor1.jpg";
-import comedor2 from "../../assets/images/comedor2.jpg";
+import andreas from "../../assets/images/andreas.jpg";
 import campeonato1 from "../../assets/images/campeonato1.jpg";
 import campeonato2 from "../../assets/images/campeonato2.jpg";
 import ulrich from "../../assets/images/ulrich.jpeg";
@@ -54,7 +53,7 @@ export default function Volunteers () {
             />
 
                    <img
-              src={comedor1}
+              src={andreas}
               alt="voluntarios"
               className="w-full h-full object-cover rounded-2xl shadow-xl"
             />

@@ -58,6 +58,8 @@ const fundacion = [
   { name: t('menu.lafundacion.item4'), href: '/history', icon: FilmIcon },
   { name: t('menu.lafundacion.item5'), href: '/volunteers', icon: GlobeAltIcon },
   { name: t('menu.lafundacion.item6'), href: '/garden', icon: School },
+  { name: t('menu.lafundacion.item7'), href: '/tourism', icon: TruckIcon },
+
 ]
 
 const escuela = [
@@ -71,7 +73,6 @@ const escuela = [
 const productos = [
   { name: t('menu.productos.item2'), href: '/honey', icon: CubeIcon },
   { name: t('menu.productos.item3'), href: '/energies', icon: SunIcon },
-  { name: t('menu.productos.item4'), href: '/tourism', icon: TruckIcon },
 ]
   return (
     <header className="bg-green-600 shadow-md">

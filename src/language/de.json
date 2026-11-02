@@ -15,7 +15,8 @@
       "item3": "Vorstand",
       "item4": "Geschichte",
       "item5": "Deutsche Freiwillige",
-      "item6": "Kindergarten"
+      "item6": "Kindergarten",
+      "item7": "Tourismus"
     },
 
     "escuela": {
@@ -29,8 +30,7 @@
     "productos": {
       "item1": "Produkte und Dienstleistungen",
       "item2": "Imkerei",
-      "item3": "Solarenergie",
-      "item4": "Tourismus"
+      "item3": "Solarenergie"
     },
     "contacto": "Kontakt",
     "donar": "Spenden"
@@ -202,6 +202,15 @@
     "texto3": "Lebensmittel, Lehrmaterialien, Spielzeug usw. wurden von der F.C.C.F. finanziert. Leider wurde der Vertrag mit der Gemeinde für die Fortführung des städtischen Kindergartens nicht erneuert.",
     "texto4": "Von 2010 bis 2015 wurde eine Kinderspeisung eingerichtet, mit Platz zum Spielen und täglichem Zugang zu einer Mahlzeit, üblicherweise am Nachmittag (18 Uhr). Der Traum der Stiftung ist es, unseren früheren Kindergarten für Kinder von 4 und 5 Jahren wieder zu eröffnen."
   },
+
+      "turismo": {
+
+      "strong": "Tourismusangebot",
+      "titulo": "Alternative Reisen",
+      "texto1": "José Majer bot in den Anfängen der Stiftung alternative Reisen durch ganz Nordargentinien an. Der Ausgangspunkt war üblicherweise unser Sitz in Fernández.",
+      "texto2": "Unsere Erfahrungen: „José, der Blitz der Anden“ (Foto) führte viele Reisen zu interessanten Orten aller Art – im Auto, im Pick-up, im Kleinbus und sogar in einem alten Mercedes-Benz-Bus. Als Deutscher, der 1966 nach Argentinien kam, zeigte er seinen Gästen und Landsleuten stets das Land und seine Menschen. Er kannte alle Wege (und Abkürzungen), preiswerte Hotels und Cafés, in denen man köstlichen Kaffee bekam. Er zeigte seinen Gästen die Dörfer, Museen, Kirchen und Weinkeller sowie die Flüsse, Wege und Berge. Abends putzten die Gäste ihre vom Staub bedeckten Brillen. José kannte alle Kunsthandwerker, die in den Tälern der Anden leben. Es gab die Möglichkeit, sehr günstig einzukaufen."
+
+    },
 
 
   "escuela": {
@@ -405,6 +414,7 @@
     "botonWhatsapp": "Über WhatsApp anfragen",
     "requisitos": {
   "dni": "Fotokopie des Personalausweises des Schülers/der Schülerin (1. und 2. Seite)",
+  "CUIL":"CUIL-Zertifikat",
   "nacimiento": "Fotokopie der Geburtsurkunde",
   "tutor": "Bei Minderjährigen muss ein Elternteil oder ein gesetzlicher Vormund anwesend sein.",
   "primaria": "Bescheinigung über den Abschluss der Grundschule (nur für die 4-monatigen Ausbildungsgänge).",
@@ -434,14 +444,7 @@
 
 
     },
-    "turismo": {
 
-      "strong": "Tourismusangebot",
-      "titulo": "Alternative Reisen",
-      "texto1": "José Majer bot in den Anfängen der Stiftung alternative Reisen durch ganz Nordargentinien an. Der Ausgangspunkt war üblicherweise unser Sitz in Fernández.",
-      "texto2": "Unsere Erfahrungen: „José, der Blitz der Anden“ (Foto) führte viele Reisen zu interessanten Orten aller Art – im Auto, im Pick-up, im Kleinbus und sogar in einem alten Mercedes-Benz-Bus. Als Deutscher, der 1966 nach Argentinien kam, zeigte er seinen Gästen und Landsleuten stets das Land und seine Menschen. Er kannte alle Wege (und Abkürzungen), preiswerte Hotels und Cafés, in denen man köstlichen Kaffee bekam. Er zeigte seinen Gästen die Dörfer, Museen, Kirchen und Weinkeller sowie die Flüsse, Wege und Berge. Abends putzten die Gäste ihre vom Staub bedeckten Brillen. José kannte alle Kunsthandwerker, die in den Tälern der Anden leben. Es gab die Möglichkeit, sehr günstig einzukaufen."
-
-    },
 
     "energias": {
       "solar": {

@@ -16,7 +16,8 @@
       "item3":"Board of Directors",
       "item4":"History",
       "item5":"German Volunteers",
-      "item6":"Kindergarten"
+      "item6":"Kindergarten",
+      "item7":"Tourism"
     },
 
     "escuela":{
@@ -30,8 +31,7 @@
      "productos":{
       "item1":"Products and Services",
       "item2":"Beekeeping",
-      "item3":"Solar Energy",
-      "item4":"Tourism"
+      "item3":"Solar Energy"
     },
     "contacto":"Contact",
     "donar":"Donate"
@@ -203,6 +203,16 @@
     "texto3":"Food, teaching materials, toys, etc. were funded by the F.C.C.F. Unfortunately, the agreement with the council was not renewed, and the municipal kindergarten did not continue.",
     "texto4":"From 2010 to 2015, a children's dining hall was set up, with space for children to play and access a daily meal, usually in the evening (6 pm). The Foundation's dream is to reopen our former kindergarten for children aged 4 and 5."
   },
+
+
+   "turismo":{
+
+        "strong":"Tourism Service",
+        "titulo":"Alternative Tourism Trips",
+        "texto1":"In the Foundation's early days, José Majer used to organise alternative tourism trips across the whole of northern Argentina. These usually set off from our base in Fernández.",
+        "texto2":"Our experiences: \"José, the Lightning of the Andes\" (photo) guided many trips to all sorts of interesting places, by car, pick-up truck, minibus and even an old Mercedes-Benz coach. As a German who arrived in Argentina in 1966, he always loved showing visitors and fellow countrymen the country and its people. He knew every road (and every shortcut), every cheap hotel and every café serving the most delicious coffee. He showed his guests the towns, museums, churches and wineries, as well as the rivers, roads and mountains. In the evenings, guests would clean the dust off their glasses. José knew all the craftspeople living in the Andean valleys, where there were great bargains to be had. "
+
+      },
 
 
   "escuela":{
@@ -407,6 +417,7 @@
     "botonWhatsapp":"Ask via WhatsApp",
     "requisitos": {
   "dni": "Photocopy of the student's ID (1st and 2nd pages)",
+  "CUIL":"CUIL certificate",
   "nacimiento": "Photocopy of the birth certificate",
   "tutor": "In the case of a minor, a parent or legal guardian must attend.",
   "primaria": "Primary school completion certificate (only for the 4-month programs).",
@@ -436,14 +447,7 @@
 
 
     },
-          "turismo":{
-
-        "strong":"Tourism Service",
-        "titulo":"Alternative Tourism Trips",
-        "texto1":"In the Foundation's early days, José Majer used to organise alternative tourism trips across the whole of northern Argentina. These usually set off from our base in Fernández.",
-        "texto2":"Our experiences: \"José, the Lightning of the Andes\" (photo) guided many trips to all sorts of interesting places, by car, pick-up truck, minibus and even an old Mercedes-Benz coach. As a German who arrived in Argentina in 1966, he always loved showing visitors and fellow countrymen the country and its people. He knew every road (and every shortcut), every cheap hotel and every café serving the most delicious coffee. He showed his guests the towns, museums, churches and wineries, as well as the rivers, roads and mountains. In the evenings, guests would clean the dust off their glasses. José knew all the craftspeople living in the Andean valleys, where there were great bargains to be had. "
-
-      },
+         
 
     "energias":{
       "solar":{

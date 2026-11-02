@@ -1,5 +1,5 @@
-import turismo from "../../assets/images/turismo.jpg";
-import {useLang} from "./../../hooks/useLang";
+import turismo from "../../../assets/images/turismo.jpg"
+import {useLang} from "../../../hooks/useLang";
 
 export default function Tourism () {
 
@@ -21,20 +21,20 @@ export default function Tourism () {
           {/* Contenido */}
           <div>
             <span className="text-cyan-700 font-semibold uppercase tracking-wider">
-              {t("productos.turismo.strong")}
+              {t("turismo.strong")}
             </span>
 
             <h2 className="text-4xl font-bold text-cyan-900 mt-2 mb-6">
-              {t("productos.turismo.titulo")}
+              {t("turismo.titulo")}
             </h2>
 
             <p className="mt-4 text-lg text-slate-600 leading-relaxed text-justify">
-                {t("productos.turismo.texto1")}
+                {t("turismo.texto1")}
 
             </p>
 
             <p className="mt-4 text-lg text-slate-600 leading-relaxed text-justify">
-                {t("productos.turismo.texto2")}
+                {t("turismo.texto2")}
 
             </p>
 

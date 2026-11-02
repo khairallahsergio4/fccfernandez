@@ -16,7 +16,8 @@
       "item3":"Consejo de Administracion",
       "item4":"Historia",
       "item5":"Voluntarios Alemanes",
-      "item6":"Jardin de Infantes"
+      "item6":"Jardin de Infantes",
+      "item7":"Turismo"
     },
 
     "escuela":{
@@ -30,8 +31,7 @@
      "productos":{
       "item1":"Productos y Servicios",
       "item2":"Apicultura",
-      "item3":"Energia Solar",
-      "item4":"Turismo"
+      "item3":"Energia Solar"
     },
     "contacto":"Contacto",
     "donar":"Donar"
@@ -202,7 +202,18 @@
     "texto2":"En el año 1992 la Municipalidad de Fernández reconoció el jardín “Huahuitas” hasta el año 2009. El municipio enviaba las maestras jardineras con dos cocineras, para las salas de 4/5 años y otorgaba los correspondientes certificados de estudio a los niños.",
     "texto3":"Los alimentos, materiales didácticos, juguetes, etc fueron costeados por la F.C.C.F.. Lamentablemente no se renovó el contrato con el municipio para continuar con el jardín de infantes municipal.",
     "texto4":"Desde el 2010 al 2015 se inició un comedor infantil, con espacio para que los niños jueguen y tengan acceso a una comida diaria, normalmente a la tarde (18 hs). El sueño de la fundación es reabrir nuestro antiguo jardín para niños de 4 y 5 años."
+
+
   },
+
+              "turismo":{
+
+        "strong":"Servicio de turismo",
+        "titulo":"Viajes de Turismo Alternativo",
+        "texto1":"Jose Majer ofrecía en los inicios de la Fundación viajes de turismo alternativo por todo el norte argentino. Usualmente la salida era en nuestra sede de Fernández.",
+        "texto2":"Nuestras experiencias: “José el relámpago de los Andes” (foto) guio muchos viajes a lugares interesantes de toda clase en auto, camioneta, combi e inclusive un viejo colectivo Mercedes Benz. Como alemán, que llegó a Argentina en 1966, siempre mostró a sus visitas y compatriotas el país y su gente. Él conocía todos los caminos (y atajos), hoteles económicos y cafés, donde podian conseguir cafés riquísimos. El mostraba a sus huéspedes los pueblos, museos, iglesias y bodegas también los ríos, caminos y montañas. En la nochecita los huéspedes limpiaban sus anteojos de la tierra. José conocía todos los artesanos que viven en los valles de los Andes. Existía posibilidad de hacer compras muy baratas. "
+
+      },
 
 
   "escuela":{
@@ -408,10 +419,12 @@
     "botonWhatsapp":"Consultar por WhatsApp",
     "requisitos":{
        "dni": "Fotocopia del DNI del alumno/a (1era y 2da hoja)",
+       "CUIL":"Constancia de CUIL",
       "nacimiento": "Fotocopia del acta de nacimiento",
       "tutor": "En el caso de menor de edad tiene que concurrir el tutor.",
       "primaria": "Certificado de finalización de estudios primarios (solo en el caso de las titulaciones de 4 meses).",
       "secundario": "Título de nivel secundario, constancia de finalización o certificado de alumno regular si estás cursando aún el secundario (para las titulaciones de 8 meses)."
+
     }
 
   },
@@ -437,14 +450,7 @@
 
 
     },
-          "turismo":{
 
-        "strong":"Servicio de turismo",
-        "titulo":"Viajes de Turismo Alternativo",
-        "texto1":"Jose Majer ofrecía en los inicios de la Fundación viajes de turismo alternativo por todo el norte argentino. Usualmente la salida era en nuestra sede de Fernández.",
-        "texto2":"Nuestras experiencias: “José el relámpago de los Andes” (foto) guio muchos viajes a lugares interesantes de toda clase en auto, camioneta, combi e inclusive un viejo colectivo Mercedes Benz. Como alemán, que llegó a Argentina en 1966, siempre mostró a sus visitas y compatriotas el país y su gente. Él conocía todos los caminos (y atajos), hoteles económicos y cafés, donde podian conseguir cafés riquísimos. El mostraba a sus huéspedes los pueblos, museos, iglesias y bodegas también los ríos, caminos y montañas. En la nochecita los huéspedes limpiaban sus anteojos de la tierra. José conocía todos los artesanos que viven en los valles de los Andes. Existía posibilidad de hacer compras muy baratas. "
-
-      },
 
     "energias":{
       "solar":{
