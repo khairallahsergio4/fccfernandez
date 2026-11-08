@@ -6,7 +6,7 @@ import { useLang } from "../../hooks/useLang";
 export default function FacebookPost() {
   const {t}= useLang();
   return (
-    <section className="py-20 bg-gradient-to-b from-slate-50 to-white">
+    <section className="news-section py-20 bg-gradient-to-b from-slate-50 to-white">
       <div className="max-w-7xl mx-auto px-4">
 
         <div className="text-center mb-14">

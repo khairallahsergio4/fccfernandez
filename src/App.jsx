@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import { Routes, Route } from 'react-router-dom'
 import Welcome from './Components/Welcome.jsx'
@@ -30,6 +29,7 @@ function App() {
     <>
     <ScrollToTop/>
     <NavBar/>
+    <main className="site-main">
     <Routes>
       <Route path="/" element={<Welcome />} />
       <Route path="/home" element={<Home />} />
@@ -61,6 +61,7 @@ function App() {
 
 
     </Routes>
+    </main>
     <RedesButton/>
     <Footer/>
     </>

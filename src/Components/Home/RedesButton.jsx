@@ -7,10 +7,10 @@ import {
   FaShareAlt,
   FaTimes,
 } from "react-icons/fa";
-import { useLang } from "../../hooks/useLang";
+
 
 const RedesButton = () => {
-  const {t}=useLang()
+  
   const [abierto, setAbierto] = useState(false);
 
   const telefono = "5493854111443";
@@ -83,10 +83,10 @@ const RedesButton = () => {
       <button
         onClick={() => setAbierto(!abierto)}
         className="
-          w-16 h-16
+          w-14 h-14
           rounded-full
-          bg-indigo-600
-          hover:bg-indigo-700
+          bg-green-800
+          hover:bg-green-900
           text-white
           flex items-center justify-center
           shadow-2xl
@@ -95,6 +95,7 @@ const RedesButton = () => {
           hover:scale-110
         "
         aria-label="Redes Sociales"
+        aria-expanded={abierto}
       >
         {abierto ? <FaTimes size={28} /> : <FaShareAlt size={28} />}
       </button>

@@ -8,7 +8,7 @@ const Founder = () => {
   const { t } = useLang();
 
   return (
-    <section className="py-16 px-6 lg:px-10 bg-gradient-to-br from-slate-50 via-white to-indigo-50">
+    <section className="founder-section py-16 px-6 lg:px-10 bg-gradient-to-br from-slate-50 via-white to-indigo-50">
       <div className="max-w-7xl mx-auto">
 
         {/* Título */}

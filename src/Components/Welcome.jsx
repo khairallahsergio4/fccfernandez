@@ -19,13 +19,13 @@ export default function Welcome() {
   }, [navigate]);
 
   return (
-    <div className="fixed inset-0 flex items-center justify-center overflow-hidden">
+    <div className="welcome-screen fixed inset-0 flex items-center justify-center overflow-hidden">
 
       <div className="fixed inset-0 bg-gradient-to-br from-green-900 via-green-700 to-green-500"></div>
 
       <div className="fixed inset-0 backdrop-blur-sm bg-black/20"></div>
 
-      <div className="relative z-10 bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-5 sm:p-6 w-[85%] sm:w-[70%] md:w-[60%] lg:w-[50%] xl:w-[40%] max-w-sm mx-4">
+      <div className="welcome-card relative z-10 bg-white/90 backdrop-blur-md rounded-2xl shadow-2xl p-5 sm:p-6 w-[85%] sm:w-[70%] md:w-[60%] lg:w-[50%] xl:w-[40%] max-w-sm mx-4">
 
         <img 
           src={logo} 

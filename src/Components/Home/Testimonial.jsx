@@ -20,7 +20,7 @@ export default function Testimonial() {
   ];
 
   return (
-    <section className="relative overflow-hidden bg-gradient-to-br from-slate-50 via-white to-indigo-50 ">
+    <section className="school-section relative overflow-hidden bg-gradient-to-br from-slate-50 via-white to-indigo-50 ">
       {/* Fondos decorativos */}
       <div className="absolute top-0 left-0 h-72 w-72 rounded-full bg-indigo-200/30 blur-3xl " />
       <div className="absolute bottom-0 right-0 h-96 w-96 rounded-full bg-purple-200/30 blur-3xl" />
